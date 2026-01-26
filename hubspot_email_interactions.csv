@@ -1,0 +1,501 @@
+First Name,Last Name,Email Address,Datetime,Action,Email Subject Line
+Wanda,Maximoff,wanda.maximoff@example.org,2020-10-01 11:45:16,Sent,Holiday meal service needs you
+Peter,Parker,peter.parker@example.org,2020-05-31 19:10:26,Sent,Spring fundraiser kicks off today
+Clark,Kent,clark.kent@example.org,2020-08-13 23:48:00,Sent,We smashed our target — thanks to you!
+Lois,Lane,lois.lane@example.org,2020-10-07 13:17:50,Sent,Your gift is changing lives
+Clark,Kent,clark.kent@example.org,2020-05-21 00:23:54,Sent,Your gift is changing lives
+Homer,Simpson,homer.simpson@example.org,2020-11-06 19:36:10,Sent,Holiday meal service needs you
+Morty,Smith,morty.smith@example.org,2020-03-22 06:12:14,Sent,Exclusive update for supporters
+Ash,Ketchum,ash.ketchum@example.org,2020-11-15 19:45:34,Sent,Exclusive update for supporters
+Natasha,Romanoff,natasha.romanoff@example.org,2020-02-02 07:49:44,Opened,Spring fundraiser kicks off today
+Ron,Weasley,ron.weasley@example.org,2020-12-03 07:56:12,Sent,Upcoming community cleanup — join us
+Scott,Summers,scott.summers@example.org,2020-06-18 04:43:23,Sent,Upcoming community cleanup — join us
+Velma,Dinkley,velma.dinkley@example.org,2020-02-14 03:56:26,Sent,We smashed our target — thanks to you!
+Bruce,Wayne,bruce.wayne@example.org,2020-06-29 16:27:32,Opened,Spring fundraiser kicks off today
+Barbara,Gordon,barbara.gordon@example.org,2020-09-18 10:36:56,Sent,Help us reach our goal!
+Wanda,Maximoff,wanda.maximoff@example.org,2020-12-06 13:42:01,Opened,Thank you for being part of the mission
+Patrick,Star,patrick.star@example.org,2020-07-22 06:20:28,Sent,Your gift is changing lives
+Bruce,Wayne,bruce.wayne@example.org,2020-10-15 21:12:00,Opened,Thank you for being part of the mission
+Homer,Simpson,homer.simpson@example.org,2020-02-23 00:37:43,Sent,Volunteer Spotlight: You make it happen
+Lois,Lane,lois.lane@example.org,2020-12-04 19:16:27,Clicked,Join the food drive next week
+Harley,Quinn,harley.quinn@example.org,2020-11-30 20:21:55,Sent,Help us reach our goal!
+Steve,Rogers,steve.rogers@example.org,2020-09-15 14:38:39,Sent,Spring fundraiser kicks off today
+Velma,Dinkley,velma.dinkley@example.org,2020-10-02 22:43:15,Opened,Holiday meal service needs you
+Bugs,Bunny,bugs.bunny@example.org,2020-09-25 17:07:21,Sent,Exclusive update for supporters
+Rick,Sanchez,rick.sanchez@example.org,2020-06-03 00:27:23,Sent,Help us reach our goal!
+Harley,Quinn,harley.quinn@example.org,2020-07-19 23:09:11,Sent,Help us reach our goal!
+Wanda,Maximoff,wanda.maximoff@example.org,2020-12-15 16:30:48,Opened,See your impact this month
+Clark,Kent,clark.kent@example.org,2020-03-10 02:55:33,Opened,Tech workshop registration now open
+Ron,Weasley,ron.weasley@example.org,2020-06-19 02:37:54,Opened,Volunteer Spotlight: You make it happen
+Clark,Kent,clark.kent@example.org,2020-07-31 21:52:56,Sent,Help us reach our goal!
+Morty,Smith,morty.smith@example.org,2020-10-28 14:54:13,Clicked,Volunteer Spotlight: You make it happen
+Scott,Summers,scott.summers@example.org,2020-12-26 13:00:38,Sent,Upcoming community cleanup — join us
+Harley,Quinn,harley.quinn@example.org,2020-01-24 05:55:11,Sent,Exclusive update for supporters
+Bruce,Wayne,bruce.wayne@example.org,2020-08-14 07:50:56,Sent,Exclusive update for supporters
+Wanda,Maximoff,wanda.maximoff@example.org,2020-05-16 12:18:57,Sent,Volunteer Spotlight: You make it happen
+Steve,Rogers,steve.rogers@example.org,2020-08-19 15:25:19,Sent,Exclusive update for supporters
+Tony,Stark,tony.stark@example.org,2020-12-04 00:27:38,Sent,We smashed our target — thanks to you!
+Ash,Ketchum,ash.ketchum@example.org,2020-05-18 20:57:42,Sent,Tech workshop registration now open
+Ash,Ketchum,ash.ketchum@example.org,2020-03-14 12:27:17,Sent,Your gift is changing lives
+Morty,Smith,morty.smith@example.org,2020-07-12 08:04:12,Sent,See your impact this month
+Ron,Weasley,ron.weasley@example.org,2020-04-19 22:04:02,Sent,Volunteer Spotlight: You make it happen
+Patrick,Star,patrick.star@example.org,2020-11-11 05:56:37,Sent,Tech workshop registration now open
+Tony,Stark,tony.stark@example.org,2020-02-24 04:44:13,Sent,Tech workshop registration now open
+Bruce,Wayne,bruce.wayne@example.org,2020-02-11 12:35:41,Opened,Upcoming community cleanup — join us
+Ash,Ketchum,ash.ketchum@example.org,2020-08-20 04:47:17,Opened,Thank you for being part of the mission
+Lisa,Simpson,lisa.simpson@example.org,2020-05-07 09:41:47,Sent,Join the food drive next week
+Barbara,Gordon,barbara.gordon@example.org,2020-11-20 14:20:47,Opened,Thank you for being part of the mission
+Bugs,Bunny,bugs.bunny@example.org,2020-06-05 07:46:14,Sent,Upcoming community cleanup — join us
+Velma,Dinkley,velma.dinkley@example.org,2020-10-29 22:52:26,Sent,Holiday meal service needs you
+Rick,Sanchez,rick.sanchez@example.org,2020-11-02 14:07:31,Clicked,Exclusive update for supporters
+Velma,Dinkley,velma.dinkley@example.org,2020-09-23 18:43:30,Sent,Holiday meal service needs you
+Hermione,Granger,hermione.granger@example.org,2020-04-14 09:22:26,Sent,Holiday meal service needs you
+Scott,Summers,scott.summers@example.org,2020-07-12 23:55:45,Opened,Your gift is changing lives
+Steve,Rogers,steve.rogers@example.org,2020-05-20 23:28:00,Sent,Help us reach our goal!
+Steve,Rogers,steve.rogers@example.org,2020-06-16 05:01:57,Sent,Holiday meal service needs you
+Diana,Prince,diana.prince@example.org,2020-01-05 13:22:19,Sent,Holiday meal service needs you
+Rick,Sanchez,rick.sanchez@example.org,2020-07-10 20:07:41,Sent,See your impact this month
+Ron,Weasley,ron.weasley@example.org,2020-05-10 16:20:36,Opened,Exclusive update for supporters
+Barbara,Gordon,barbara.gordon@example.org,2020-09-02 23:55:33,Opened,Thank you for being part of the mission
+Scott,Summers,scott.summers@example.org,2020-09-29 05:13:39,Sent,Spring fundraiser kicks off today
+Bruce,Wayne,bruce.wayne@example.org,2020-08-05 16:40:58,Sent,Upcoming community cleanup — join us
+Scott,Summers,scott.summers@example.org,2020-01-22 07:07:04,Sent,Holiday meal service needs you
+Mickey,Mouse,mickey.mouse@example.org,2020-01-24 02:37:10,Sent,Upcoming community cleanup — join us
+Harley,Quinn,harley.quinn@example.org,2020-11-23 17:17:05,Sent,Thank you for being part of the mission
+Bruce,Wayne,bruce.wayne@example.org,2020-12-23 02:22:40,Sent,Upcoming community cleanup — join us
+Ash,Ketchum,ash.ketchum@example.org,2020-05-29 16:29:11,Sent,Your gift is changing lives
+Morty,Smith,morty.smith@example.org,2020-01-26 13:41:15,Sent,Volunteer Spotlight: You make it happen
+Mickey,Mouse,mickey.mouse@example.org,2020-12-14 00:16:27,Sent,Join the food drive next week
+Steve,Rogers,steve.rogers@example.org,2020-09-29 04:15:51,Opened,Tech workshop registration now open
+Ginny,Weasley,ginny.weasley@example.org,2020-06-26 00:26:14,Sent,See your impact this month
+Ron,Weasley,ron.weasley@example.org,2020-11-13 04:04:29,Opened,Holiday meal service needs you
+Scott,Summers,scott.summers@example.org,2021-08-15 12:18:39,Sent,Thank you for being part of the mission
+Lisa,Simpson,lisa.simpson@example.org,2021-01-18 13:13:11,Sent,Join the food drive next week
+Diana,Prince,diana.prince@example.org,2021-06-28 09:34:12,Sent,Thank you for being part of the mission
+Morty,Smith,morty.smith@example.org,2021-01-28 17:13:39,Sent,Your gift is changing lives
+Mickey,Mouse,mickey.mouse@example.org,2021-10-27 10:56:22,Sent,Upcoming community cleanup — join us
+Rick,Sanchez,rick.sanchez@example.org,2021-08-24 21:59:15,Sent,Join the food drive next week
+Ash,Ketchum,ash.ketchum@example.org,2021-10-26 20:39:40,Sent,Tech workshop registration now open
+Ash,Ketchum,ash.ketchum@example.org,2021-04-11 13:25:58,Sent,Spring fundraiser kicks off today
+Peter,Parker,peter.parker@example.org,2021-01-10 07:13:25,Sent,Upcoming community cleanup — join us
+Jean,Grey,jean.grey@example.org,2021-12-30 01:59:44,Sent,Tech workshop registration now open
+Ron,Weasley,ron.weasley@example.org,2021-09-17 19:09:26,Sent,Volunteer Spotlight: You make it happen
+Lois,Lane,lois.lane@example.org,2021-09-21 09:00:11,Sent,Holiday meal service needs you
+Mickey,Mouse,mickey.mouse@example.org,2021-11-23 20:08:52,Opened,Exclusive update for supporters
+Scott,Summers,scott.summers@example.org,2021-04-25 04:10:33,Sent,Volunteer Spotlight: You make it happen
+Ron,Weasley,ron.weasley@example.org,2021-08-14 14:06:02,Sent,We smashed our target — thanks to you!
+Bugs,Bunny,bugs.bunny@example.org,2021-03-13 15:42:40,Opened,Your gift is changing lives
+Hermione,Granger,hermione.granger@example.org,2021-10-23 01:39:58,Sent,Tech workshop registration now open
+Barbara,Gordon,barbara.gordon@example.org,2021-12-07 08:57:48,Sent,See your impact this month
+Ash,Ketchum,ash.ketchum@example.org,2021-07-10 16:48:50,Sent,Help us reach our goal!
+Ron,Weasley,ron.weasley@example.org,2021-12-26 10:41:55,Sent,Thank you for being part of the mission
+Tony,Stark,tony.stark@example.org,2021-03-16 17:01:30,Sent,Spring fundraiser kicks off today
+Hermione,Granger,hermione.granger@example.org,2021-07-23 15:16:54,Sent,We smashed our target — thanks to you!
+Lois,Lane,lois.lane@example.org,2021-01-06 21:31:08,Sent,Join the food drive next week
+Patrick,Star,patrick.star@example.org,2021-11-16 07:11:44,Opened,Help us reach our goal!
+Jean,Grey,jean.grey@example.org,2021-02-13 09:55:49,Sent,We smashed our target — thanks to you!
+Velma,Dinkley,velma.dinkley@example.org,2021-10-25 05:49:02,Opened,Tech workshop registration now open
+Diana,Prince,diana.prince@example.org,2021-07-05 20:38:55,Sent,Spring fundraiser kicks off today
+Wanda,Maximoff,wanda.maximoff@example.org,2021-01-19 09:41:36,Sent,Thank you for being part of the mission
+Bugs,Bunny,bugs.bunny@example.org,2021-09-09 11:08:53,Sent,Tech workshop registration now open
+Natasha,Romanoff,natasha.romanoff@example.org,2021-11-12 19:07:42,Sent,Holiday meal service needs you
+Natasha,Romanoff,natasha.romanoff@example.org,2021-12-15 21:47:57,Sent,Help us reach our goal!
+Barbara,Gordon,barbara.gordon@example.org,2021-05-28 06:47:54,Sent,Volunteer Spotlight: You make it happen
+Jean,Grey,jean.grey@example.org,2021-08-15 14:30:49,Opened,Spring fundraiser kicks off today
+Clark,Kent,clark.kent@example.org,2021-08-24 05:21:37,Sent,Tech workshop registration now open
+Bugs,Bunny,bugs.bunny@example.org,2021-12-05 09:54:35,Opened,Thank you for being part of the mission
+Clark,Kent,clark.kent@example.org,2021-03-17 15:17:50,Sent,Exclusive update for supporters
+Lisa,Simpson,lisa.simpson@example.org,2021-08-12 04:31:30,Sent,Your gift is changing lives
+Velma,Dinkley,velma.dinkley@example.org,2021-04-04 03:40:33,Sent,Join the food drive next week
+Lois,Lane,lois.lane@example.org,2021-02-10 02:43:10,Opened,Help us reach our goal!
+Velma,Dinkley,velma.dinkley@example.org,2021-08-17 02:02:33,Sent,Your gift is changing lives
+Patrick,Star,patrick.star@example.org,2021-04-20 04:53:57,Sent,We smashed our target — thanks to you!
+Morty,Smith,morty.smith@example.org,2021-09-21 02:40:39,Sent,Volunteer Spotlight: You make it happen
+Lisa,Simpson,lisa.simpson@example.org,2021-08-07 09:32:03,Sent,Your gift is changing lives
+Clark,Kent,clark.kent@example.org,2021-12-10 04:14:06,Sent,See your impact this month
+Homer,Simpson,homer.simpson@example.org,2021-02-08 23:26:06,Opened,We smashed our target — thanks to you!
+Homer,Simpson,homer.simpson@example.org,2021-10-28 16:25:15,Sent,Join the food drive next week
+Homer,Simpson,homer.simpson@example.org,2021-08-14 03:47:49,Sent,Spring fundraiser kicks off today
+Tony,Stark,tony.stark@example.org,2021-04-16 11:37:04,Sent,Help us reach our goal!
+Wanda,Maximoff,wanda.maximoff@example.org,2021-05-11 20:44:40,Sent,Holiday meal service needs you
+Natasha,Romanoff,natasha.romanoff@example.org,2021-05-19 18:23:00,Sent,Help us reach our goal!
+Jean,Grey,jean.grey@example.org,2021-01-13 07:17:13,Sent,We smashed our target — thanks to you!
+Ginny,Weasley,ginny.weasley@example.org,2021-04-03 01:11:00,Sent,We smashed our target — thanks to you!
+Steve,Rogers,steve.rogers@example.org,2021-12-24 11:13:07,Sent,Volunteer Spotlight: You make it happen
+Rick,Sanchez,rick.sanchez@example.org,2021-11-09 13:01:34,Sent,Your gift is changing lives
+Mickey,Mouse,mickey.mouse@example.org,2021-07-28 22:21:30,Sent,Holiday meal service needs you
+Bugs,Bunny,bugs.bunny@example.org,2021-07-18 21:37:46,Sent,Holiday meal service needs you
+Tony,Stark,tony.stark@example.org,2021-02-02 07:33:58,Sent,Exclusive update for supporters
+Jean,Grey,jean.grey@example.org,2021-10-01 00:22:37,Sent,Exclusive update for supporters
+Natasha,Romanoff,natasha.romanoff@example.org,2021-10-02 21:19:59,Opened,Your gift is changing lives
+Steve,Rogers,steve.rogers@example.org,2021-01-17 12:57:29,Sent,Volunteer Spotlight: You make it happen
+Homer,Simpson,homer.simpson@example.org,2021-03-31 09:21:15,Sent,Your gift is changing lives
+Homer,Simpson,homer.simpson@example.org,2021-11-27 23:53:06,Sent,We smashed our target — thanks to you!
+Natasha,Romanoff,natasha.romanoff@example.org,2021-04-04 12:51:01,Opened,Exclusive update for supporters
+Bruce,Wayne,bruce.wayne@example.org,2021-04-04 05:17:55,Sent,Volunteer Spotlight: You make it happen
+Bugs,Bunny,bugs.bunny@example.org,2021-04-20 13:11:18,Sent,Thank you for being part of the mission
+Scott,Summers,scott.summers@example.org,2021-07-30 05:44:18,Sent,Your gift is changing lives
+Rick,Sanchez,rick.sanchez@example.org,2021-04-22 23:40:52,Sent,Thank you for being part of the mission
+Velma,Dinkley,velma.dinkley@example.org,2021-08-19 19:15:34,Sent,Join the food drive next week
+Scott,Summers,scott.summers@example.org,2021-08-10 20:39:06,Sent,Volunteer Spotlight: You make it happen
+Clark,Kent,clark.kent@example.org,2021-04-22 18:45:33,Sent,Volunteer Spotlight: You make it happen
+Tony,Stark,tony.stark@example.org,2022-05-01 00:45:41,Sent,Tech workshop registration now open
+Hermione,Granger,hermione.granger@example.org,2022-10-12 11:31:56,Sent,Help us reach our goal!
+Harley,Quinn,harley.quinn@example.org,2022-12-29 10:28:10,Sent,See your impact this month
+Patrick,Star,patrick.star@example.org,2022-12-20 22:30:23,Sent,Holiday meal service needs you
+Lois,Lane,lois.lane@example.org,2022-12-09 14:49:53,Sent,Your gift is changing lives
+Wanda,Maximoff,wanda.maximoff@example.org,2022-07-24 22:37:00,Opened,Upcoming community cleanup — join us
+Homer,Simpson,homer.simpson@example.org,2022-10-06 13:31:11,Opened,Your gift is changing lives
+Natasha,Romanoff,natasha.romanoff@example.org,2022-06-27 22:14:10,Sent,Your gift is changing lives
+Tony,Stark,tony.stark@example.org,2022-08-29 01:13:01,Clicked,Thank you for being part of the mission
+Harley,Quinn,harley.quinn@example.org,2022-11-03 06:08:09,Sent,Help us reach our goal!
+Velma,Dinkley,velma.dinkley@example.org,2022-03-23 21:45:24,Sent,Holiday meal service needs you
+Bruce,Wayne,bruce.wayne@example.org,2022-10-24 15:18:27,Sent,Help us reach our goal!
+Barbara,Gordon,barbara.gordon@example.org,2022-05-04 22:57:02,Sent,Holiday meal service needs you
+Homer,Simpson,homer.simpson@example.org,2022-10-06 18:10:45,Sent,Upcoming community cleanup — join us
+Patrick,Star,patrick.star@example.org,2022-04-20 09:15:28,Sent,Thank you for being part of the mission
+Ron,Weasley,ron.weasley@example.org,2022-08-14 12:14:06,Sent,We smashed our target — thanks to you!
+Bruce,Wayne,bruce.wayne@example.org,2022-03-22 06:27:10,Clicked,Join the food drive next week
+Lois,Lane,lois.lane@example.org,2022-11-01 07:43:51,Opened,Your gift is changing lives
+Jean,Grey,jean.grey@example.org,2022-07-29 09:10:57,Sent,We smashed our target — thanks to you!
+Clark,Kent,clark.kent@example.org,2022-11-24 07:02:25,Sent,Tech workshop registration now open
+Peter,Parker,peter.parker@example.org,2022-09-02 19:39:34,Sent,Help us reach our goal!
+Steve,Rogers,steve.rogers@example.org,2022-01-18 11:59:19,Sent,We smashed our target — thanks to you!
+Rick,Sanchez,rick.sanchez@example.org,2022-01-04 01:09:04,Sent,Volunteer Spotlight: You make it happen
+Steve,Rogers,steve.rogers@example.org,2022-09-06 20:08:46,Sent,Upcoming community cleanup — join us
+Tony,Stark,tony.stark@example.org,2022-11-05 22:34:43,Sent,Volunteer Spotlight: You make it happen
+Homer,Simpson,homer.simpson@example.org,2022-04-07 12:49:26,Sent,Join the food drive next week
+Diana,Prince,diana.prince@example.org,2022-06-25 07:57:47,Sent,Upcoming community cleanup — join us
+Tony,Stark,tony.stark@example.org,2022-10-09 02:27:49,Opened,Your gift is changing lives
+Velma,Dinkley,velma.dinkley@example.org,2022-11-28 01:17:07,Opened,Thank you for being part of the mission
+Homer,Simpson,homer.simpson@example.org,2022-05-04 05:17:04,Sent,Upcoming community cleanup — join us
+Homer,Simpson,homer.simpson@example.org,2022-05-23 09:24:01,Sent,See your impact this month
+Bruce,Wayne,bruce.wayne@example.org,2022-03-31 11:37:56,Opened,See your impact this month
+Scott,Summers,scott.summers@example.org,2022-09-04 10:08:38,Opened,Join the food drive next week
+Peter,Parker,peter.parker@example.org,2022-03-10 08:00:30,Opened,We smashed our target — thanks to you!
+Lois,Lane,lois.lane@example.org,2022-11-06 14:37:54,Sent,Spring fundraiser kicks off today
+Wanda,Maximoff,wanda.maximoff@example.org,2022-10-27 04:42:14,Sent,Tech workshop registration now open
+Clark,Kent,clark.kent@example.org,2022-05-29 23:33:50,Sent,Join the food drive next week
+Lisa,Simpson,lisa.simpson@example.org,2022-06-25 03:46:58,Opened,Thank you for being part of the mission
+Natasha,Romanoff,natasha.romanoff@example.org,2022-06-15 12:11:36,Opened,Join the food drive next week
+Bruce,Wayne,bruce.wayne@example.org,2022-10-11 10:10:11,Sent,We smashed our target — thanks to you!
+Rick,Sanchez,rick.sanchez@example.org,2022-01-22 20:50:15,Sent,Volunteer Spotlight: You make it happen
+Diana,Prince,diana.prince@example.org,2022-03-08 17:10:24,Opened,Exclusive update for supporters
+Mickey,Mouse,mickey.mouse@example.org,2022-01-30 14:25:24,Opened,Your gift is changing lives
+Scott,Summers,scott.summers@example.org,2022-06-22 05:48:24,Sent,Tech workshop registration now open
+Peter,Parker,peter.parker@example.org,2022-02-06 14:56:55,Opened,Holiday meal service needs you
+Morty,Smith,morty.smith@example.org,2022-10-19 02:53:57,Sent,Volunteer Spotlight: You make it happen
+Patrick,Star,patrick.star@example.org,2022-09-03 10:46:57,Sent,Spring fundraiser kicks off today
+Clark,Kent,clark.kent@example.org,2022-06-14 08:29:30,Sent,Volunteer Spotlight: You make it happen
+Jean,Grey,jean.grey@example.org,2022-01-07 11:30:49,Opened,Tech workshop registration now open
+Peter,Parker,peter.parker@example.org,2022-07-09 11:36:38,Sent,Volunteer Spotlight: You make it happen
+Bruce,Wayne,bruce.wayne@example.org,2022-02-06 10:38:46,Sent,Upcoming community cleanup — join us
+Bugs,Bunny,bugs.bunny@example.org,2022-06-24 18:15:31,Sent,Spring fundraiser kicks off today
+Bugs,Bunny,bugs.bunny@example.org,2022-05-17 10:29:54,Sent,Spring fundraiser kicks off today
+Lisa,Simpson,lisa.simpson@example.org,2022-12-25 08:40:16,Sent,Spring fundraiser kicks off today
+Jean,Grey,jean.grey@example.org,2022-12-22 02:27:08,Sent,Spring fundraiser kicks off today
+Natasha,Romanoff,natasha.romanoff@example.org,2022-12-28 11:41:12,Sent,We smashed our target — thanks to you!
+Patrick,Star,patrick.star@example.org,2022-12-06 14:18:25,Sent,Tech workshop registration now open
+Lois,Lane,lois.lane@example.org,2022-08-04 08:51:51,Opened,Exclusive update for supporters
+Jean,Grey,jean.grey@example.org,2022-10-14 00:58:42,Sent,Exclusive update for supporters
+Harley,Quinn,harley.quinn@example.org,2022-07-09 18:59:24,Opened,Upcoming community cleanup — join us
+Morty,Smith,morty.smith@example.org,2022-09-27 21:33:13,Sent,Your gift is changing lives
+Tony,Stark,tony.stark@example.org,2022-06-08 20:08:13,Sent,Your gift is changing lives
+Bugs,Bunny,bugs.bunny@example.org,2022-08-02 16:14:38,Sent,We smashed our target — thanks to you!
+Steve,Rogers,steve.rogers@example.org,2022-08-10 08:45:45,Sent,Upcoming community cleanup — join us
+Ash,Ketchum,ash.ketchum@example.org,2022-06-04 04:32:42,Sent,Exclusive update for supporters
+Steve,Rogers,steve.rogers@example.org,2022-05-07 11:33:20,Sent,Help us reach our goal!
+Mickey,Mouse,mickey.mouse@example.org,2022-12-17 18:21:24,Opened,Spring fundraiser kicks off today
+Harley,Quinn,harley.quinn@example.org,2022-11-13 03:48:56,Sent,Holiday meal service needs you
+Ash,Ketchum,ash.ketchum@example.org,2022-12-13 10:03:53,Clicked,We smashed our target — thanks to you!
+Jean,Grey,jean.grey@example.org,2022-01-14 08:24:26,Opened,Upcoming community cleanup — join us
+Velma,Dinkley,velma.dinkley@example.org,2022-12-05 03:26:58,Opened,Your gift is changing lives
+Natasha,Romanoff,natasha.romanoff@example.org,2022-06-24 06:21:30,Sent,Exclusive update for supporters
+Barbara,Gordon,barbara.gordon@example.org,2022-10-16 10:29:38,Opened,Upcoming community cleanup — join us
+Ron,Weasley,ron.weasley@example.org,2022-05-09 21:36:30,Opened,Your gift is changing lives
+Morty,Smith,morty.smith@example.org,2022-11-30 03:18:54,Sent,Upcoming community cleanup — join us
+Lisa,Simpson,lisa.simpson@example.org,2022-05-12 02:15:30,Sent,Exclusive update for supporters
+Morty,Smith,morty.smith@example.org,2022-11-04 17:37:29,Sent,Your gift is changing lives
+Barbara,Gordon,barbara.gordon@example.org,2022-06-19 03:59:16,Sent,Tech workshop registration now open
+Bruce,Wayne,bruce.wayne@example.org,2022-06-12 14:10:43,Sent,Your gift is changing lives
+Diana,Prince,diana.prince@example.org,2022-12-28 08:07:18,Opened,Join the food drive next week
+Bugs,Bunny,bugs.bunny@example.org,2023-07-22 08:39:05,Opened,Help us reach our goal!
+Bruce,Wayne,bruce.wayne@example.org,2023-09-09 17:27:22,Opened,Volunteer Spotlight: You make it happen
+Lois,Lane,lois.lane@example.org,2023-08-19 21:54:06,Opened,See your impact this month
+Lisa,Simpson,lisa.simpson@example.org,2023-08-01 09:09:38,Sent,We smashed our target — thanks to you!
+Tony,Stark,tony.stark@example.org,2023-08-31 05:03:17,Sent,Help us reach our goal!
+Lisa,Simpson,lisa.simpson@example.org,2023-03-14 10:01:15,Sent,See your impact this month
+Lois,Lane,lois.lane@example.org,2023-07-15 09:24:53,Opened,See your impact this month
+Homer,Simpson,homer.simpson@example.org,2023-02-22 12:19:47,Sent,Thank you for being part of the mission
+Bugs,Bunny,bugs.bunny@example.org,2023-10-06 15:32:42,Sent,See your impact this month
+Velma,Dinkley,velma.dinkley@example.org,2023-12-01 03:09:49,Sent,Upcoming community cleanup — join us
+Morty,Smith,morty.smith@example.org,2023-07-15 18:04:50,Sent,Upcoming community cleanup — join us
+Patrick,Star,patrick.star@example.org,2023-08-26 07:15:24,Opened,Volunteer Spotlight: You make it happen
+Barbara,Gordon,barbara.gordon@example.org,2023-05-12 18:26:09,Sent,Thank you for being part of the mission
+Diana,Prince,diana.prince@example.org,2023-06-21 09:03:13,Opened,Spring fundraiser kicks off today
+Bruce,Wayne,bruce.wayne@example.org,2023-07-05 09:54:58,Sent,See your impact this month
+Velma,Dinkley,velma.dinkley@example.org,2023-04-20 19:04:35,Clicked,Volunteer Spotlight: You make it happen
+Ash,Ketchum,ash.ketchum@example.org,2023-06-02 19:10:28,Opened,Help us reach our goal!
+Ron,Weasley,ron.weasley@example.org,2023-11-22 07:23:17,Opened,Holiday meal service needs you
+Wanda,Maximoff,wanda.maximoff@example.org,2023-12-02 04:43:48,Sent,Your gift is changing lives
+Lois,Lane,lois.lane@example.org,2023-08-07 23:20:47,Sent,Thank you for being part of the mission
+Peter,Parker,peter.parker@example.org,2023-08-20 05:40:24,Sent,See your impact this month
+Peter,Parker,peter.parker@example.org,2023-01-01 15:08:03,Sent,Spring fundraiser kicks off today
+Ron,Weasley,ron.weasley@example.org,2023-05-07 12:41:00,Sent,Join the food drive next week
+Steve,Rogers,steve.rogers@example.org,2023-07-25 12:44:56,Sent,Thank you for being part of the mission
+Barbara,Gordon,barbara.gordon@example.org,2023-03-26 03:17:44,Sent,Thank you for being part of the mission
+Natasha,Romanoff,natasha.romanoff@example.org,2023-07-10 16:50:40,Sent,Join the food drive next week
+Peter,Parker,peter.parker@example.org,2023-07-22 11:11:30,Sent,Help us reach our goal!
+Tony,Stark,tony.stark@example.org,2023-01-11 00:45:22,Sent,Thank you for being part of the mission
+Harley,Quinn,harley.quinn@example.org,2023-04-01 02:07:26,Sent,Help us reach our goal!
+Natasha,Romanoff,natasha.romanoff@example.org,2023-09-13 19:16:14,Sent,See your impact this month
+Morty,Smith,morty.smith@example.org,2023-11-25 07:05:44,Sent,We smashed our target — thanks to you!
+Ron,Weasley,ron.weasley@example.org,2023-03-10 17:40:27,Sent,See your impact this month
+Barbara,Gordon,barbara.gordon@example.org,2023-10-02 15:15:57,Sent,Tech workshop registration now open
+Ginny,Weasley,ginny.weasley@example.org,2023-11-19 14:25:34,Sent,Help us reach our goal!
+Mickey,Mouse,mickey.mouse@example.org,2023-05-10 16:21:15,Sent,Holiday meal service needs you
+Harley,Quinn,harley.quinn@example.org,2023-05-12 21:49:25,Sent,Upcoming community cleanup — join us
+Patrick,Star,patrick.star@example.org,2023-06-19 13:22:13,Sent,We smashed our target — thanks to you!
+Lisa,Simpson,lisa.simpson@example.org,2023-09-10 20:31:17,Sent,Upcoming community cleanup — join us
+Clark,Kent,clark.kent@example.org,2023-02-12 01:04:05,Sent,We smashed our target — thanks to you!
+Steve,Rogers,steve.rogers@example.org,2023-09-18 22:09:20,Sent,Help us reach our goal!
+Lois,Lane,lois.lane@example.org,2023-10-13 12:40:46,Sent,Upcoming community cleanup — join us
+Morty,Smith,morty.smith@example.org,2023-12-31 09:07:51,Opened,Your gift is changing lives
+Velma,Dinkley,velma.dinkley@example.org,2023-02-04 17:38:18,Sent,Thank you for being part of the mission
+Morty,Smith,morty.smith@example.org,2023-10-28 00:32:32,Sent,Exclusive update for supporters
+Scott,Summers,scott.summers@example.org,2023-01-17 01:26:35,Opened,Volunteer Spotlight: You make it happen
+Jean,Grey,jean.grey@example.org,2023-11-02 15:52:52,Opened,Upcoming community cleanup — join us
+Mickey,Mouse,mickey.mouse@example.org,2023-11-04 21:54:51,Opened,Spring fundraiser kicks off today
+Hermione,Granger,hermione.granger@example.org,2023-02-06 00:44:15,Opened,Join the food drive next week
+Patrick,Star,patrick.star@example.org,2023-11-14 00:49:07,Sent,Upcoming community cleanup — join us
+Diana,Prince,diana.prince@example.org,2023-08-29 14:33:58,Sent,See your impact this month
+Scott,Summers,scott.summers@example.org,2023-08-02 21:33:09,Sent,Exclusive update for supporters
+Peter,Parker,peter.parker@example.org,2023-01-08 18:16:21,Opened,Exclusive update for supporters
+Scott,Summers,scott.summers@example.org,2023-07-17 09:38:43,Sent,Your gift is changing lives
+Bruce,Wayne,bruce.wayne@example.org,2023-11-25 04:14:08,Opened,See your impact this month
+Lois,Lane,lois.lane@example.org,2023-11-26 04:31:24,Sent,Spring fundraiser kicks off today
+Ginny,Weasley,ginny.weasley@example.org,2023-06-28 23:39:34,Sent,Volunteer Spotlight: You make it happen
+Peter,Parker,peter.parker@example.org,2023-12-16 17:05:02,Sent,Exclusive update for supporters
+Peter,Parker,peter.parker@example.org,2023-03-02 05:36:02,Sent,Volunteer Spotlight: You make it happen
+Ron,Weasley,ron.weasley@example.org,2023-09-19 05:23:52,Sent,Thank you for being part of the mission
+Harley,Quinn,harley.quinn@example.org,2023-07-07 21:42:13,Sent,Help us reach our goal!
+Homer,Simpson,homer.simpson@example.org,2023-08-12 22:30:24,Sent,Spring fundraiser kicks off today
+Jean,Grey,jean.grey@example.org,2023-08-30 21:43:45,Sent,Holiday meal service needs you
+Homer,Simpson,homer.simpson@example.org,2023-09-03 07:34:40,Sent,Holiday meal service needs you
+Tony,Stark,tony.stark@example.org,2023-01-03 04:14:52,Opened,Holiday meal service needs you
+Morty,Smith,morty.smith@example.org,2023-12-24 06:12:03,Sent,Holiday meal service needs you
+Patrick,Star,patrick.star@example.org,2023-12-21 21:56:15,Sent,Upcoming community cleanup — join us
+Natasha,Romanoff,natasha.romanoff@example.org,2023-05-23 00:32:22,Sent,Help us reach our goal!
+Barbara,Gordon,barbara.gordon@example.org,2023-03-15 08:48:13,Sent,Tech workshop registration now open
+Steve,Rogers,steve.rogers@example.org,2023-10-19 11:29:26,Sent,Holiday meal service needs you
+Hermione,Granger,hermione.granger@example.org,2023-11-07 02:46:19,Sent,Holiday meal service needs you
+Harley,Quinn,harley.quinn@example.org,2023-05-18 13:32:39,Sent,Help us reach our goal!
+Rick,Sanchez,rick.sanchez@example.org,2023-09-24 22:36:11,Sent,Help us reach our goal!
+Lois,Lane,lois.lane@example.org,2023-06-13 21:46:31,Opened,Tech workshop registration now open
+Harley,Quinn,harley.quinn@example.org,2023-09-26 15:00:52,Sent,Help us reach our goal!
+Bugs,Bunny,bugs.bunny@example.org,2023-04-23 09:46:27,Sent,Exclusive update for supporters
+Morty,Smith,morty.smith@example.org,2023-12-12 03:40:01,Sent,See your impact this month
+Bruce,Wayne,bruce.wayne@example.org,2023-02-11 13:40:07,Sent,Thank you for being part of the mission
+Steve,Rogers,steve.rogers@example.org,2023-10-25 06:28:46,Sent,See your impact this month
+Peter,Parker,peter.parker@example.org,2023-05-27 02:32:37,Opened,We smashed our target — thanks to you!
+Clark,Kent,clark.kent@example.org,2023-01-04 17:41:46,Opened,Join the food drive next week
+Wanda,Maximoff,wanda.maximoff@example.org,2023-05-26 20:20:42,Sent,We smashed our target — thanks to you!
+Bruce,Wayne,bruce.wayne@example.org,2023-01-24 00:43:05,Sent,Volunteer Spotlight: You make it happen
+Rick,Sanchez,rick.sanchez@example.org,2023-03-08 19:14:24,Opened,Exclusive update for supporters
+Diana,Prince,diana.prince@example.org,2023-06-11 05:57:09,Sent,Upcoming community cleanup — join us
+Clark,Kent,clark.kent@example.org,2023-10-10 16:13:53,Sent,See your impact this month
+Tony,Stark,tony.stark@example.org,2023-08-15 18:01:27,Opened,Spring fundraiser kicks off today
+Bugs,Bunny,bugs.bunny@example.org,2023-08-11 06:31:28,Sent,Exclusive update for supporters
+Barbara,Gordon,barbara.gordon@example.org,2023-05-03 18:08:52,Opened,We smashed our target — thanks to you!
+Tony,Stark,tony.stark@example.org,2023-10-20 03:41:16,Sent,Exclusive update for supporters
+Lois,Lane,lois.lane@example.org,2023-04-17 21:36:17,Sent,Help us reach our goal!
+Steve,Rogers,steve.rogers@example.org,2024-11-29 04:04:59,Sent,Volunteer Spotlight: You make it happen
+Homer,Simpson,homer.simpson@example.org,2024-07-18 20:58:38,Opened,Help us reach our goal!
+Lois,Lane,lois.lane@example.org,2024-09-11 09:49:40,Sent,Join the food drive next week
+Bugs,Bunny,bugs.bunny@example.org,2024-03-16 00:56:15,Opened,We smashed our target — thanks to you!
+Hermione,Granger,hermione.granger@example.org,2024-11-01 13:56:36,Sent,Upcoming community cleanup — join us
+Lisa,Simpson,lisa.simpson@example.org,2024-06-18 06:29:13,Opened,Your gift is changing lives
+Morty,Smith,morty.smith@example.org,2024-01-19 12:19:06,Sent,Volunteer Spotlight: You make it happen
+Ash,Ketchum,ash.ketchum@example.org,2024-07-26 13:52:58,Opened,Exclusive update for supporters
+Diana,Prince,diana.prince@example.org,2024-08-21 23:17:08,Sent,Thank you for being part of the mission
+Patrick,Star,patrick.star@example.org,2024-04-18 15:17:40,Sent,Exclusive update for supporters
+Harley,Quinn,harley.quinn@example.org,2024-12-10 08:53:49,Sent,Your gift is changing lives
+Rick,Sanchez,rick.sanchez@example.org,2024-02-23 13:43:55,Sent,Tech workshop registration now open
+Bugs,Bunny,bugs.bunny@example.org,2024-02-20 17:59:45,Sent,Holiday meal service needs you
+Ash,Ketchum,ash.ketchum@example.org,2024-08-26 13:53:40,Sent,Tech workshop registration now open
+Bugs,Bunny,bugs.bunny@example.org,2024-07-17 01:14:10,Opened,See your impact this month
+Scott,Summers,scott.summers@example.org,2024-08-16 23:56:14,Sent,Your gift is changing lives
+Jean,Grey,jean.grey@example.org,2024-03-30 06:40:35,Opened,Help us reach our goal!
+Tony,Stark,tony.stark@example.org,2024-02-03 11:59:26,Sent,Join the food drive next week
+Rick,Sanchez,rick.sanchez@example.org,2024-12-01 10:27:00,Opened,Volunteer Spotlight: You make it happen
+Peter,Parker,peter.parker@example.org,2024-03-09 14:15:24,Sent,Your gift is changing lives
+Mickey,Mouse,mickey.mouse@example.org,2024-07-27 13:36:13,Sent,Help us reach our goal!
+Ash,Ketchum,ash.ketchum@example.org,2024-05-17 12:09:58,Opened,Volunteer Spotlight: You make it happen
+Morty,Smith,morty.smith@example.org,2024-06-08 13:07:41,Sent,See your impact this month
+Peter,Parker,peter.parker@example.org,2024-01-28 05:47:29,Sent,See your impact this month
+Wanda,Maximoff,wanda.maximoff@example.org,2024-07-02 20:04:07,Opened,Holiday meal service needs you
+Bruce,Wayne,bruce.wayne@example.org,2024-08-19 21:18:55,Sent,Holiday meal service needs you
+Lisa,Simpson,lisa.simpson@example.org,2024-10-29 12:48:27,Sent,We smashed our target — thanks to you!
+Lisa,Simpson,lisa.simpson@example.org,2024-03-01 00:59:05,Sent,Help us reach our goal!
+Lisa,Simpson,lisa.simpson@example.org,2024-01-07 16:04:54,Opened,Thank you for being part of the mission
+Rick,Sanchez,rick.sanchez@example.org,2024-02-28 04:43:35,Sent,Upcoming community cleanup — join us
+Lois,Lane,lois.lane@example.org,2024-04-28 02:54:52,Sent,We smashed our target — thanks to you!
+Rick,Sanchez,rick.sanchez@example.org,2024-02-26 20:26:22,Opened,Join the food drive next week
+Homer,Simpson,homer.simpson@example.org,2024-05-10 21:56:53,Opened,Tech workshop registration now open
+Peter,Parker,peter.parker@example.org,2024-11-10 19:09:09,Sent,Spring fundraiser kicks off today
+Bugs,Bunny,bugs.bunny@example.org,2024-12-25 04:38:51,Sent,Holiday meal service needs you
+Lisa,Simpson,lisa.simpson@example.org,2024-05-14 21:57:53,Sent,See your impact this month
+Mickey,Mouse,mickey.mouse@example.org,2024-12-27 00:23:02,Opened,Upcoming community cleanup — join us
+Lisa,Simpson,lisa.simpson@example.org,2024-10-16 07:42:00,Sent,Volunteer Spotlight: You make it happen
+Tony,Stark,tony.stark@example.org,2024-06-10 16:18:06,Sent,Join the food drive next week
+Scott,Summers,scott.summers@example.org,2024-11-08 14:19:45,Sent,Holiday meal service needs you
+Mickey,Mouse,mickey.mouse@example.org,2024-09-15 08:31:57,Sent,Holiday meal service needs you
+Steve,Rogers,steve.rogers@example.org,2024-09-16 09:42:50,Sent,Thank you for being part of the mission
+Wanda,Maximoff,wanda.maximoff@example.org,2024-10-01 01:41:11,Sent,Spring fundraiser kicks off today
+Lisa,Simpson,lisa.simpson@example.org,2024-03-15 04:06:44,Sent,Holiday meal service needs you
+Hermione,Granger,hermione.granger@example.org,2024-02-22 02:47:44,Opened,Thank you for being part of the mission
+Scott,Summers,scott.summers@example.org,2024-04-03 20:54:01,Sent,Help us reach our goal!
+Morty,Smith,morty.smith@example.org,2024-07-05 07:28:08,Sent,Holiday meal service needs you
+Steve,Rogers,steve.rogers@example.org,2024-07-13 22:46:30,Sent,Your gift is changing lives
+Tony,Stark,tony.stark@example.org,2024-09-23 04:43:47,Sent,Help us reach our goal!
+Bruce,Wayne,bruce.wayne@example.org,2024-06-03 17:35:36,Sent,Upcoming community cleanup — join us
+Barbara,Gordon,barbara.gordon@example.org,2024-02-13 14:42:31,Opened,Thank you for being part of the mission
+Tony,Stark,tony.stark@example.org,2024-02-01 08:16:07,Sent,We smashed our target — thanks to you!
+Hermione,Granger,hermione.granger@example.org,2024-02-07 19:59:51,Sent,Tech workshop registration now open
+Peter,Parker,peter.parker@example.org,2024-12-12 20:19:19,Sent,Holiday meal service needs you
+Ash,Ketchum,ash.ketchum@example.org,2024-04-16 22:58:43,Sent,Tech workshop registration now open
+Harley,Quinn,harley.quinn@example.org,2024-02-18 20:44:32,Sent,Thank you for being part of the mission
+Ginny,Weasley,ginny.weasley@example.org,2024-07-23 00:23:17,Sent,Tech workshop registration now open
+Rick,Sanchez,rick.sanchez@example.org,2024-02-17 09:40:07,Sent,Exclusive update for supporters
+Harley,Quinn,harley.quinn@example.org,2024-04-09 14:44:45,Sent,Volunteer Spotlight: You make it happen
+Rick,Sanchez,rick.sanchez@example.org,2024-06-09 23:10:10,Sent,Your gift is changing lives
+Diana,Prince,diana.prince@example.org,2024-05-14 03:16:18,Sent,Help us reach our goal!
+Harley,Quinn,harley.quinn@example.org,2024-05-14 15:05:55,Sent,Join the food drive next week
+Homer,Simpson,homer.simpson@example.org,2024-01-11 15:51:47,Sent,Tech workshop registration now open
+Wanda,Maximoff,wanda.maximoff@example.org,2024-11-19 03:13:01,Sent,Volunteer Spotlight: You make it happen
+Ron,Weasley,ron.weasley@example.org,2024-05-07 16:49:01,Sent,Tech workshop registration now open
+Tony,Stark,tony.stark@example.org,2024-09-04 21:55:54,Sent,Volunteer Spotlight: You make it happen
+Velma,Dinkley,velma.dinkley@example.org,2024-07-27 21:14:33,Sent,Thank you for being part of the mission
+Morty,Smith,morty.smith@example.org,2024-10-11 19:34:42,Opened,Volunteer Spotlight: You make it happen
+Rick,Sanchez,rick.sanchez@example.org,2024-07-25 12:04:39,Sent,Exclusive update for supporters
+Rick,Sanchez,rick.sanchez@example.org,2024-03-02 23:13:16,Sent,Exclusive update for supporters
+Ash,Ketchum,ash.ketchum@example.org,2024-10-31 05:32:25,Sent,Join the food drive next week
+Ginny,Weasley,ginny.weasley@example.org,2024-03-28 20:58:26,Sent,Holiday meal service needs you
+Natasha,Romanoff,natasha.romanoff@example.org,2024-04-17 03:33:43,Sent,Tech workshop registration now open
+Velma,Dinkley,velma.dinkley@example.org,2024-12-18 22:32:22,Sent,Your gift is changing lives
+Hermione,Granger,hermione.granger@example.org,2024-08-02 18:40:36,Sent,Join the food drive next week
+Bruce,Wayne,bruce.wayne@example.org,2024-03-18 07:35:49,Sent,Join the food drive next week
+Barbara,Gordon,barbara.gordon@example.org,2024-09-28 02:48:13,Sent,Volunteer Spotlight: You make it happen
+Bugs,Bunny,bugs.bunny@example.org,2024-06-27 09:48:05,Sent,Exclusive update for supporters
+Tony,Stark,tony.stark@example.org,2024-01-03 03:36:47,Sent,Tech workshop registration now open
+Bugs,Bunny,bugs.bunny@example.org,2024-09-01 12:14:21,Sent,We smashed our target — thanks to you!
+Homer,Simpson,homer.simpson@example.org,2024-01-09 20:29:00,Sent,Help us reach our goal!
+Rick,Sanchez,rick.sanchez@example.org,2024-04-07 10:01:49,Sent,Your gift is changing lives
+Bugs,Bunny,bugs.bunny@example.org,2024-05-27 17:35:02,Sent,Join the food drive next week
+Peter,Parker,peter.parker@example.org,2024-03-11 17:53:54,Opened,Help us reach our goal!
+Bruce,Wayne,bruce.wayne@example.org,2024-03-14 14:20:57,Sent,Thank you for being part of the mission
+Ginny,Weasley,ginny.weasley@example.org,2024-01-23 23:56:57,Opened,Help us reach our goal!
+Ash,Ketchum,ash.ketchum@example.org,2024-05-03 19:43:43,Sent,Spring fundraiser kicks off today
+Tony,Stark,tony.stark@example.org,2024-04-30 06:37:31,Sent,Help us reach our goal!
+Rick,Sanchez,rick.sanchez@example.org,2024-06-20 00:25:50,Sent,See your impact this month
+Patrick,Star,patrick.star@example.org,2024-03-25 09:02:59,Sent,Upcoming community cleanup — join us
+Ron,Weasley,ron.weasley@example.org,2024-09-18 08:32:11,Sent,Thank you for being part of the mission
+Morty,Smith,morty.smith@example.org,2024-10-29 15:57:47,Sent,Holiday meal service needs you
+Wanda,Maximoff,wanda.maximoff@example.org,2024-05-03 11:08:01,Opened,Spring fundraiser kicks off today
+Ash,Ketchum,ash.ketchum@example.org,2024-11-26 00:58:27,Sent,See your impact this month
+Hermione,Granger,hermione.granger@example.org,2024-04-22 07:19:49,Sent,See your impact this month
+Morty,Smith,morty.smith@example.org,2025-06-06 15:42:42,Sent,Your gift is changing lives
+Diana,Prince,diana.prince@example.org,2025-11-16 10:22:55,Sent,Upcoming community cleanup — join us
+Jean,Grey,jean.grey@example.org,2025-03-30 06:47:16,Opened,See your impact this month
+Rick,Sanchez,rick.sanchez@example.org,2025-08-24 22:40:08,Opened,We smashed our target — thanks to you!
+Tony,Stark,tony.stark@example.org,2025-10-09 16:01:30,Opened,Volunteer Spotlight: You make it happen
+Homer,Simpson,homer.simpson@example.org,2025-01-21 14:40:37,Sent,Upcoming community cleanup — join us
+Barbara,Gordon,barbara.gordon@example.org,2025-08-28 22:47:23,Sent,Volunteer Spotlight: You make it happen
+Ash,Ketchum,ash.ketchum@example.org,2025-09-12 13:16:30,Sent,Tech workshop registration now open
+Jean,Grey,jean.grey@example.org,2025-12-30 09:40:49,Opened,Exclusive update for supporters
+Jean,Grey,jean.grey@example.org,2025-05-17 08:59:48,Sent,See your impact this month
+Lois,Lane,lois.lane@example.org,2025-11-15 23:04:39,Sent,Volunteer Spotlight: You make it happen
+Scott,Summers,scott.summers@example.org,2025-06-21 22:35:50,Sent,Holiday meal service needs you
+Peter,Parker,peter.parker@example.org,2025-08-18 21:05:59,Sent,Join the food drive next week
+Patrick,Star,patrick.star@example.org,2025-04-23 19:36:59,Sent,Volunteer Spotlight: You make it happen
+Homer,Simpson,homer.simpson@example.org,2025-04-12 20:24:01,Opened,Spring fundraiser kicks off today
+Scott,Summers,scott.summers@example.org,2025-01-16 11:36:28,Sent,Your gift is changing lives
+Wanda,Maximoff,wanda.maximoff@example.org,2025-10-23 20:36:42,Opened,Spring fundraiser kicks off today
+Rick,Sanchez,rick.sanchez@example.org,2025-03-22 09:58:56,Sent,Join the food drive next week
+Mickey,Mouse,mickey.mouse@example.org,2025-06-12 20:02:44,Sent,Holiday meal service needs you
+Rick,Sanchez,rick.sanchez@example.org,2025-09-01 20:18:44,Sent,See your impact this month
+Steve,Rogers,steve.rogers@example.org,2025-03-19 00:50:47,Opened,See your impact this month
+Velma,Dinkley,velma.dinkley@example.org,2025-10-17 09:25:03,Opened,We smashed our target — thanks to you!
+Velma,Dinkley,velma.dinkley@example.org,2025-12-30 16:21:39,Sent,Volunteer Spotlight: You make it happen
+Ginny,Weasley,ginny.weasley@example.org,2025-04-04 12:35:21,Sent,Tech workshop registration now open
+Harley,Quinn,harley.quinn@example.org,2025-05-30 11:10:22,Sent,Spring fundraiser kicks off today
+Scott,Summers,scott.summers@example.org,2025-08-15 19:35:39,Opened,Help us reach our goal!
+Peter,Parker,peter.parker@example.org,2025-08-13 23:00:36,Sent,Thank you for being part of the mission
+Diana,Prince,diana.prince@example.org,2025-01-05 22:15:58,Opened,We smashed our target — thanks to you!
+Steve,Rogers,steve.rogers@example.org,2025-10-30 01:23:49,Opened,Upcoming community cleanup — join us
+Ron,Weasley,ron.weasley@example.org,2025-04-21 12:00:54,Sent,Holiday meal service needs you
+Ginny,Weasley,ginny.weasley@example.org,2025-11-25 00:28:08,Opened,We smashed our target — thanks to you!
+Wanda,Maximoff,wanda.maximoff@example.org,2025-04-22 06:36:36,Sent,Tech workshop registration now open
+Hermione,Granger,hermione.granger@example.org,2025-08-28 04:17:15,Sent,Your gift is changing lives
+Harley,Quinn,harley.quinn@example.org,2025-02-22 20:01:15,Sent,Upcoming community cleanup — join us
+Tony,Stark,tony.stark@example.org,2025-11-26 00:18:42,Opened,Exclusive update for supporters
+Wanda,Maximoff,wanda.maximoff@example.org,2025-12-23 13:02:12,Sent,Upcoming community cleanup — join us
+Steve,Rogers,steve.rogers@example.org,2025-01-23 23:39:42,Opened,Spring fundraiser kicks off today
+Wanda,Maximoff,wanda.maximoff@example.org,2025-08-12 13:30:24,Sent,Upcoming community cleanup — join us
+Hermione,Granger,hermione.granger@example.org,2025-07-02 09:26:03,Clicked,Volunteer Spotlight: You make it happen
+Ash,Ketchum,ash.ketchum@example.org,2025-03-04 07:24:18,Sent,We smashed our target — thanks to you!
+Clark,Kent,clark.kent@example.org,2025-11-09 03:26:40,Opened,Thank you for being part of the mission
+Ginny,Weasley,ginny.weasley@example.org,2025-07-11 17:47:44,Sent,Exclusive update for supporters
+Bruce,Wayne,bruce.wayne@example.org,2025-06-23 01:51:01,Sent,Holiday meal service needs you
+Bugs,Bunny,bugs.bunny@example.org,2025-05-15 19:15:12,Opened,Holiday meal service needs you
+Scott,Summers,scott.summers@example.org,2025-11-13 08:19:44,Sent,Help us reach our goal!
+Jean,Grey,jean.grey@example.org,2025-07-24 11:38:35,Sent,Upcoming community cleanup — join us
+Bugs,Bunny,bugs.bunny@example.org,2025-07-15 04:02:42,Sent,Volunteer Spotlight: You make it happen
+Bruce,Wayne,bruce.wayne@example.org,2025-03-17 05:02:46,Sent,Spring fundraiser kicks off today
+Ron,Weasley,ron.weasley@example.org,2025-11-03 03:35:58,Sent,See your impact this month
+Peter,Parker,peter.parker@example.org,2025-01-31 14:59:59,Sent,Join the food drive next week
+Jean,Grey,jean.grey@example.org,2025-01-08 00:26:50,Sent,Help us reach our goal!
+Ash,Ketchum,ash.ketchum@example.org,2025-06-30 21:28:09,Sent,Your gift is changing lives
+Homer,Simpson,homer.simpson@example.org,2025-11-16 05:04:10,Sent,Spring fundraiser kicks off today
+Bruce,Wayne,bruce.wayne@example.org,2025-11-07 05:03:26,Sent,Holiday meal service needs you
+Morty,Smith,morty.smith@example.org,2025-06-10 20:04:36,Sent,Upcoming community cleanup — join us
+Scott,Summers,scott.summers@example.org,2025-03-28 18:14:57,Sent,Help us reach our goal!
+Hermione,Granger,hermione.granger@example.org,2025-08-12 06:30:01,Sent,Tech workshop registration now open
+Ash,Ketchum,ash.ketchum@example.org,2025-05-27 13:30:35,Sent,Exclusive update for supporters
+Peter,Parker,peter.parker@example.org,2025-03-25 14:06:41,Sent,Holiday meal service needs you
+Bruce,Wayne,bruce.wayne@example.org,2025-11-12 16:07:52,Sent,Your gift is changing lives
+Tony,Stark,tony.stark@example.org,2025-02-18 20:58:00,Sent,Help us reach our goal!
+Diana,Prince,diana.prince@example.org,2025-09-20 08:43:43,Sent,Holiday meal service needs you
+Jean,Grey,jean.grey@example.org,2025-12-10 18:29:12,Opened,Your gift is changing lives
+Tony,Stark,tony.stark@example.org,2025-06-14 16:24:24,Sent,Join the food drive next week
+Bugs,Bunny,bugs.bunny@example.org,2025-08-19 04:09:12,Sent,Join the food drive next week
+Peter,Parker,peter.parker@example.org,2025-03-15 14:28:40,Sent,Holiday meal service needs you
+Ginny,Weasley,ginny.weasley@example.org,2025-05-03 22:20:58,Sent,Help us reach our goal!
+Ginny,Weasley,ginny.weasley@example.org,2025-08-31 07:31:11,Opened,Exclusive update for supporters
+Lois,Lane,lois.lane@example.org,2025-10-14 00:36:41,Sent,Spring fundraiser kicks off today
+Ron,Weasley,ron.weasley@example.org,2025-12-10 03:10:25,Opened,We smashed our target — thanks to you!
+Lois,Lane,lois.lane@example.org,2025-09-08 13:55:05,Sent,Tech workshop registration now open
+Mickey,Mouse,mickey.mouse@example.org,2025-10-17 09:42:21,Sent,Exclusive update for supporters
+Diana,Prince,diana.prince@example.org,2025-12-08 14:11:58,Opened,Spring fundraiser kicks off today
+Lisa,Simpson,lisa.simpson@example.org,2025-08-04 15:42:49,Sent,Tech workshop registration now open
+Morty,Smith,morty.smith@example.org,2025-02-19 11:35:22,Sent,Exclusive update for supporters
+Steve,Rogers,steve.rogers@example.org,2025-05-28 00:52:31,Sent,Spring fundraiser kicks off today
+Ash,Ketchum,ash.ketchum@example.org,2025-08-19 17:54:34,Sent,Exclusive update for supporters
+Bruce,Wayne,bruce.wayne@example.org,2025-02-27 08:45:50,Sent,Exclusive update for supporters
+Patrick,Star,patrick.star@example.org,2025-12-06 01:52:49,Sent,Exclusive update for supporters
+Hermione,Granger,hermione.granger@example.org,2025-05-30 09:04:23,Opened,Thank you for being part of the mission
+Homer,Simpson,homer.simpson@example.org,2025-08-01 12:01:05,Sent,Holiday meal service needs you
+Homer,Simpson,homer.simpson@example.org,2025-07-21 22:54:41,Sent,Your gift is changing lives
+Bugs,Bunny,bugs.bunny@example.org,2025-07-01 05:39:25,Sent,Exclusive update for supporters
+Wanda,Maximoff,wanda.maximoff@example.org,2025-02-14 23:53:39,Sent,Upcoming community cleanup — join us
+Hermione,Granger,hermione.granger@example.org,2025-05-22 09:07:57,Sent,Join the food drive next week
+Rick,Sanchez,rick.sanchez@example.org,2025-12-07 18:46:56,Sent,Spring fundraiser kicks off today
+Natasha,Romanoff,natasha.romanoff@example.org,2025-08-03 16:47:23,Sent,Upcoming community cleanup — join us
+Ash,Ketchum,ash.ketchum@example.org,2025-11-03 03:05:17,Sent,Help us reach our goal!
+Lisa,Simpson,lisa.simpson@example.org,2025-04-01 01:52:31,Opened,Exclusive update for supporters
+Morty,Smith,morty.smith@example.org,2025-09-27 02:07:16,Sent,Your gift is changing lives
+Peter,Parker,peter.parker@example.org,2025-03-15 21:45:44,Sent,Thank you for being part of the mission
+Ash,Ketchum,ash.ketchum@example.org,2025-12-08 19:04:43,Opened,We smashed our target — thanks to you!
+Jean,Grey,jean.grey@example.org,2025-08-07 20:01:11,Sent,Help us reach our goal!
+Scott,Summers,scott.summers@example.org,2025-03-18 16:39:00,Sent,Holiday meal service needs you
+Wanda,Maximoff,wanda.maximoff@example.org,2025-06-03 19:32:30,Sent,Spring fundraiser kicks off today

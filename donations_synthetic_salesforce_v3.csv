@@ -1,0 +1,501 @@
+Donor First Name,Donor Last Name,Donor Email Address,Date of Donation,Dollar Amount,Note
+Bugs,Bunny,bugs.bunny@example.org,3/16/20,4886.83,Gala pledge
+Bugs,Bunny,bugs.bunny@example.org,6/27/20,1452.26,
+Bugs,Bunny,bugsbunny@nonprofit.org,9/22/20,1425.22,In honor of a friend
+Bugs,Bunny,bugs.bunny@example.org,3/13/21,44.15,In honor of a friend
+Bugs,Bunny,bugs.bunny@example.org,2/14/23,2764.9,
+Bugs,Bunny,bugs.bunny@example.org,12/9/24,347.53,
+Velma,Dinkley,velma.dinkley@example.org,3/31/25,118.94,Corporate match
+Velma,Dinkley,velma.dinkley@example.org,6/22/19,231.53,Online donation
+Velma,Dinkley,velma.dinkley@example.org,4/7/20,192.81,Corporate match
+Velma,Dinkley,velma.dinkley@example.org,10/10/20,123.05,Corporate match
+Velma,Dinkley,velma.dinkley@example.org,1/9/21,273.28,
+Velma,Dinkley,velma.dinkley@example.org,7/29/21,226.98,Online donation
+Velma,Dinkley,velma.dinkley@example.org,12/6/22,277.19,Corporate match
+Velma,Dinkley,velma.dinkley@example.org,7/24/23,253.17,
+Velma,Dinkley,velma.dinkley@example.org,9/20/23,198.9,
+Velma,Dinkley,velma.dinkley@example.org,12/27/23,231.2,Corporate match
+Velma,Dinkley,velma.dinkley@example.org,5/19/24,199.63,In honor of a friend
+Velma,Dinkley,velma.dinkley@example.org,11/3/24,200.4,In honor of a friend
+Velma,Dinkley,velma.dinkley@example.org,5/21/25,252.59,In honor of a friend
+Clark,eKnt,clark.kent@example.org,4/3/21,0.7,Round‑up program
+Ash,eKtchum,ash.ketchum@example.org,12/10/24,21.13,Recurring gift
+Hermione,Granger,hermione.granger@example.org,9/23/19,4688.68,Round‑up program
+Hermione,Granger,hermione.granger@example.org,2/13/22,1287.75,
+Hermione,Granger,hermione.granger@example.org,8/3/22,3470.62,Round‑up program
+Hermione,Granger,hermione.granger@example.org,12/25/22,3400.76,
+Hermione,Granger,hermione.granger@example.org,4/27/25,1504.33,
+Hermione,Granger,hermione.granger@example.org,5/3/25,2877.38,
+Hermione,Granger,hermione.granger@example.org,7/17/25,4849.82,Corporate match
+Hermione,Granger,hermione.granger@example.org,27/04/2019,3937.63,Round‑up program
+Velma,iDnkley,velma.dinkley@example.org,12/14/25,242.51,Round‑up program
+Clark,Kent,clark.kent@example.org,11/9/25,0.63,Round‑up program
+Clark,Kent,clarkkent@example.org,2/8/19,0.29,Round‑up program
+Clark,Kent,clark.kent+60@email.com,3/18/19,0.98,Round‑up program
+Clark,Kent,clark.kent@example.org,6/22/19,0.95,Round‑up program
+Clark,Kent,clark.kent@example.org,7/7/19,0.59,Round‑up program
+Clark,Kent,clark.kent@example.org,10/17/19,0.43,Round‑up program
+Clark,Kent,clark.kent@example.org,1/2/20,0.25,Round‑up program
+Clark,Kent,clark.kent@example.org,1/4/20,0.87,Round‑up program
+Clark,Kent,clark.kent@example.org,3/2/20,0.87,Round‑up program
+Clark,Kent,clark.kent@example.org,3/4/20,0.14,Round‑up program
+Clark,Kent,clark.kent@example.org,6/8/20,0.57,Round‑up program
+Clark,Kent,clark.kent@example.org,9/7/20,0.51,Round‑up program
+Clark,Kent,clark.kent@example.org,10/17/20,0.27,Round‑up program
+Clark,Kent,clark.kent@example.org,10/21/20,0.89,Round‑up program
+Clark,Kent,clark.kent@example.org,12/9/20,0.34,Round‑up program
+Clark,Kent,clark.kent@example.org,12/23/20,0.24,Round‑up program
+Clark,Kent,clark.kent@example.org,1/30/21,0.04,Round‑up program
+Clark,Kent,clark.kent+33@nonprofit.org,3/30/21,0.8,Round‑up program
+Clark,Kent,clark.kent@example.org,6/12/21,0.27,Round‑up program
+Clark,Kent,clark.kent@example.org,6/26/21,0.29,Round‑up program
+Clark,Kent,clark.kent@example.org,6/26/21,0.15,Round‑up program
+Calrk,Kent,clark.kent@example.org,8/18/21,0.77,Round‑up program
+Clark,Kent,clark.kent@example.org,9/2/21,0.14,Round‑up program
+Clark,Kent,clark.kent@example.org,10/7/21,0.14,Round‑up program
+Clark,Kent,clark.kent+35@charity.net,10/9/21,0.28,Round‑up program
+Clark,Kent,clark.kent@example.org,11/1/21,0.14,Round‑up program
+Clark,Kent,clark.kent@example.org,11/27/21,82.73,Recurring gift
+Clark,Kent,clark.kent@example.org,1/1/22,0.72,Round‑up program
+Clark,Kent,clark.kent@example.org,2/13/22,0.27,Round‑up program
+Clark,Kent,clark.kent@example.org,5/6/22,0.91,Round‑up program
+Clark,Kent,clark.kent@example.org,9/26/22,0.87,Round‑up program
+Clark,Kent,clark.kent@example.org,11/13/22,0.19,Round‑up program
+Clark,Kent,clark.kent@example.org,2/10/23,0.48,Round‑up program
+Clark,Kent,clark.kent@example.org,3/2/23,0.76,Round‑up program
+Clark,Kent,clark.kent@example.org,3/8/23,0.87,Round‑up program
+Clark,Kent,clark.kent@example.org,6/20/23,0.12,Round‑up program
+Clark,Kent,clark.kent@example.org,7/5/23,0.49,Round‑up program
+Clark,Kent,clark.kent@example.org,8/6/23,0.62,Round‑up program
+Clark,Kent,clark.kent@example.org,9/15/23,0,Round‑up program
+Clark,Kent,clark.kent@example.org,9/17/23,0.8,Round‑up program
+Clark,Kent,clark.kent@example.org,10/4/23,0.9,Round‑up program
+Clark,Kent,clark.kent@example.org,10/12/23,0.75,Round‑up program
+Clark,Kent,clark.kent+66@nonprofit.org,12/24/23,0.37,Round‑up program
+Clark,Kent,clark.kent@example.org,3/5/24,0.82,Round‑up program
+Clark,Kent,clark.kent@example.org,4/3/24,0.01,Round‑up program
+Clark,Kent,clark.kent@example.org,4/6/24,0.41,Round‑up program
+Clark,Kent,clark.kent@example.org,5/29/24,0.57,Round‑up program
+Clark,Kent,clark.kent@example.org,7/7/24,0.55,Round‑up program
+Clark,Kent,clark.kent@example.org,8/18/24,0.28,Round‑up program
+Clark,Kent,clark.kent@example.org,9/7/24,0.08,Round‑up program
+Clark,Kent,clark.kent@example.org,10/10/24,0.57,Round‑up program
+Clark,Kent,clark.kent@example.org,10/15/24,0.73,Round‑up program
+Clark,Kent,clark.kent@example.org,11/27/24,0.07,Round‑up program
+lCark,Kent,clark.kent@example.org,11/30/24,0.09,Round‑up program
+Clark,Kent,clark.kent@example.org,2/5/25,0.65,Round‑up program
+Clark,Kent,clark.kent@example.org,4/8/25,0.2,Round‑up program
+Clark,Kent,clark.kent@example.org,5/31/25,0.76,Round‑up program
+Clark,Kent,clark.kent@example.org,8/1/25,0.57,Round‑up program
+Clark,Kent,clark.kent@example.org,8/30/25,0.17,Round‑up program
+Clark,Kent,clark.kent@example.org,12/10/25,0.84,Round‑up program
+Clark,Kent,clark.kent@example.org,20/06/2020,0.68,Round‑up program
+Clark,Kent,clark.kent@example.org,29/12/2025,0.53,Round‑up program
+Clark,Kent,clark.kent@example.org,,0.89,Round‑up program
+Clark,Kent,clark.kent@example.org,,0.71,Round‑up program
+Clark,Kent,clark.kent@example.org,,0.64,Round‑up program
+Clark,Kent,clark.kent@example.org,,0.97,Round‑up program
+Clark,Kent,clark.kent@example.org,,0.19,Round‑up program
+Ash,Ketchum,ash.ketchum@example.org,3/5/25,51.61,
+Ash,Ketchum,ash.ketchum+25@charity.net,6/20/25,40.67,Online donation
+Ash,Ketchum,ash.ketchum@example.org,3/27/19,35.46,
+Ash,Ketchum,ash.ketchum@example.org,8/2/19,54.25,Gala pledge
+Ash,Ketchum,ash.ketchum@example.org,9/2/19,21.98,In honor of a friend
+Ash,Ketchum,ash.ketchum@example.org,10/25/19,43.4,Online donation
+Ash,Ketchum,ash.ketchum@example.org,11/8/19,35.16,Online donation
+Ash,Ketchum,ash.ketchum@example.org,5/8/20,47.3,Round‑up program
+Ash,Ketchum,ash.ketchum@example.org,10/13/20,53.74,Round‑up program
+Ash,Ketchum,ash.ketchum@example.org,3/8/21,45.92,Recurring gift
+Ash,Ketchum,ash.ketchum@example.org,9/18/21,21.52,Online donation
+Ash,Ketchum,ash.ketchum@example.org,10/4/21,27.48,In honor of a friend
+,Ketchum,ash.ketchum@example.org,3/15/22,53.91,Online donation
+Ash,Ketchum,ash.ketchum@example.org,4/23/22,29.41,Gala pledge
+Ash,Ketchum,ash.ketchum@example.org,4/27/22,25.3,Gala pledge
+Ash,Ketchum,ash.ketchum@example.org,3/7/23,39.27,Online donation
+Ash,Ketchum,ash.ketchum@example.org,3/15/23,49.25,Gala pledge
+Ash,Ketchum,ash.ketchum@example.org,6/15/23,27.26,Online donation
+Ash,Ketchum,ash.ketchum@example.org,11/23/23,39.87,
+Ash,Ketchum,ash.ketchum@example.org,1/24/24,55.95,
+Ash,Ketchum,ash.ketchum@example.org,6/2/24,40,
+Ash,Ketchum,ash.ketchum@example.org,7/3/24,59.63,Gala pledge
+Ash,Ketchum,ash.ketchum@example.org,8/16/24,47.78,Recurring gift
+Ash,Ketchum,ash.ketchum@example.org,11/6/24,30.12,Recurring gift
+sAh,Ketchum,ash.ketchum@example.org,11/10/24,37.48,In honor of a friend
+Ash,Ketchum,ash.ketchum@example.org,2/21/25,0.35,Round‑up program
+,Ketchum,ash.ketchum@example.org,3/2/25,23.25,Round‑up program
+Ash,Ketchum,ash.ketchum@example.org,6/13/25,32.45,Round‑up program
+Ash,Ketchum,ash.ketchum@example.org,7/30/25,27.46,In honor of a friend
+Ash,Ketchum,ash.ketchum@example.org,,31.32,
+Ash,Ketchum,ash.ketchum@example.org,,36.59,In honor of a friend
+Ash,Kethcum,ash.ketchum@example.org,1/28/21,56.62,Recurring gift
+Clark,Ketn,clark.kent@example.org,12/12/25,0.37,Round‑up program
+Clark,Knet,clark.kent@example.org,10/17/23,0.6,Round‑up program
+Clark,Knet,clark.kent@example.org,7/5/24,0.13,Round‑up program
+Lois,Lane,lois.lane@example.org,10/10/19,2000,Gala pledge
+oLis,Lane,lois.lane@example.org,9/22/21,2000,In honor of a friend
+Lois,Lane,lois.lane+4@email.com,1/4/22,2000,Online donation
+Lois,Lane,lois.lane@example.org,6/25/23,2500,
+iMckey,Mouse,mickey.mouse@example.org,2/16/19,133.54,Recurring gift
+Mickey,Mouse,mickey.mouse@example.org,4/27/19,160.29,Recurring gift
+Mickey,Mouse,mickey.mouse@example.org,5/7/19,293.05,Recurring gift
+Mickey,Mouse,mickeymouse@example.org,5/4/20,170.05,Online donation
+Mickey,Mouse,mickey.mouse@example.org,12/17/20,212.53,Recurring gift
+Mickey,Mouse,mickeymouse@nonprofit.org,12/18/20,246.54,In honor of a friend
+Mickey,Mouse,mickey.mouse@example.org,2/10/21,182.78,In honor of a friend
+Mickey,Mouse,mickey.mouse@example.org,3/27/23,172.84,In honor of a friend
+Mickey,Mouse,mickey.mouse@example.org,8/18/23,160.71,
+Mickey,Mouse,mickey.mouse+93@email.com,5/17/24,126.93,Recurring gift
+Mickey,Mouse,mickey.mouse@example.org,9/25/24,2.5,In honor of a friend
+Mickey,Mouse,mickey.mouse@example.org,10/1/24,278.67,
+Mickey,Mouse,mickey.mouse@example.org,8/23/25,291.35,Corporate match
+Mickey,Mouse,mickey.mouse@example.org,21/12/2020,264.58,Recurring gift
+Mickey,Mouse,mickey.mouse@example.org,29/10/2022,231.4,Online donation
+Peter,Pakrer,peter.parker@example.org,12/8/19,48.37,Recurring gift
+Peter,Parker,peterparker@email.com,1/13/19,34.32,Corporate match
+Peter,Parker,peter.parker@example.org,4/15/19,36.32,Gala pledge
+Peter,Parker,peter.parker@example.org,8/3/19,38.53,In honor of a friend
+Peter,Parker,peter.parker@example.org,8/23/19,34.28,In honor of a friend
+Peter,Parker,peter.parker@example.org,10/26/19,25,Gala pledge
+Peter,Parker,peter.parker@example.org,12/31/19,50.02,
+,Parker,peter.parker@example.org,1/12/20,53.92,
+Peter,Parker,peter.parker@example.org,2/6/20,26.94,
+Peter,Parker,peter.parker@example.org,3/21/20,36.37,Online donation
+Peter,Parker,peter.parker@example.org,6/4/20,29.42,Online donation
+Peter,Parker,peter.parker@example.org,6/6/20,25.91,
+Peter,Parker,peter.parker@example.org,11/18/20,23.82,Online donation
+Peter,Parker,peter.parker@example.org,2/20/21,37.94,Gala pledge
+Peter,Parker,peter.parker@example.org,3/7/21,52.23,Gala pledge
+Peter,Parker,peter.parker@example.org,3/15/21,20.48,
+Peter,Parker,peter.parker@example.org,2/1/22,59.5,Online donation
+Peter,Parker,peter.parker@example.org,2/26/22,36.97,Online donation
+Peter,Parker,peter.parker@example.org,6/30/22,45.86,In honor of a friend
+Peter,Parker,peter.parker@example.org,11/12/22,59.38,In honor of a friend
+Peter,Parker,peter.parker@example.org,2/20/23,32.76,
+Peter,Parker,peter.parker@example.org,2/26/23,36.36,
+Peter,Parker,peter.parker@example.org,3/16/23,31.21,
+Peter,Parker,peter.parker@example.org,12/1/23,42.82,In honor of a friend
+Peter,Parker,peter.parker+68@nonprofit.org,5/19/24,47.39,
+Peter,Parker,peter.parker@example.org,9/15/24,47.54,Gala pledge
+Peter,Parker,peter.parker@example.org,11/4/24,49.45,Corporate match
+Peter,Parker,peter.parker@example.org,3/5/25,58.87,
+Peter,Parker,peter.parker@example.org,8/4/25,41.78,In honor of a friend
+Peter,Parker,peter.parker@example.org,11/5/25,55.26,
+Peter,Parker,peter.parker@example.org,11/19/25,22.59,Corporate match
+Peter,Parker,peter.parker@example.org,,52.39,Gala pledge
+Diana,Pricne,diana.prince@example.org,12/19/25,0.1,Round‑up program
+Diana,Prince,diana.prince@example.org,4/10/19,0.93,Round‑up program
+Diana,Prince,diana.prince@example.org,6/10/19,0.48,Round‑up program
+iDana,Prince,diana.prince@example.org,6/30/19,0.67,Round‑up program
+iDana,Prince,diana.prince@example.org,8/19/19,0.62,Round‑up program
+Diana,Prince,diana.prince@example.org,9/19/19,0.06,Round‑up program
+Diana,Prince,diana.prince@example.org,10/15/19,0.11,Round‑up program
+Diana,Prince,diana.prince@example.org,11/2/19,0.92,Round‑up program
+Diana,Prince,diana.prince@example.org,12/4/19,0.84,Round‑up program
+Diana,Prince,diana.prince@example.org,1/6/20,0.63,Round‑up program
+Diana,Prince,diana.prince@example.org,1/30/20,0.99,Round‑up program
+Diana,Prince,diana.prince@example.org,2/25/20,0.73,Round‑up program
+Diana,Prince,diana.prince@example.org,5/7/20,0.99,Round‑up program
+Diana,Prince,diana.prince+83@email.com,5/8/20,0.76,Round‑up program
+Diana,Prince,diana.prince@example.org,6/3/20,0.27,Round‑up program
+Diaan,Prince,diana.prince@example.org,6/13/20,0.72,Round‑up program
+Diana,Prince,diana.prince@example.org,6/16/20,0.42,Round‑up program
+Diana,Prince,diana.prince@example.org,7/29/20,0.27,Round‑up program
+Diana,Prince,diana.p@email.com,8/10/20,0.81,Round‑up program
+Diana,Prince,diana.p@charity.net,9/29/20,0.05,Round‑up program
+Diana,Prince,diana.prince@example.org,11/11/20,0.02,Round‑up program
+Diana,Prince,diana.prince@example.org,11/19/20,0.81,Round‑up program
+Diana,Prince,diana.prince+59@email.com,12/23/20,0.03,Round‑up program
+Diana,Prince,diana.prince@example.org,2/14/21,0.49,Round‑up program
+Diana,Prince,diana.prince@example.org,4/1/21,0.07,Round‑up program
+Diana,Prince,dianaprince@example.org,4/9/21,0.44,Round‑up program
+Diana,Prince,diana.prince@example.org,4/9/21,0.27,Round‑up program
+Diana,Prince,diana.prince@example.org,4/17/21,0.26,Round‑up program
+Diana,Prince,diana.prince@example.org,5/17/21,0.41,Round‑up program
+Diana,Prince,diana.prince@example.org,5/25/21,0.05,Round‑up program
+Diana,Prince,diana.prince@example.org,5/28/21,0.46,Round‑up program
+Diana,Prince,diana.prince@example.org,6/24/21,0.94,Round‑up program
+Diana,Prince,diana.prince@example.org,6/30/21,0.38,Round‑up program
+Diana,Prince,diana.p@email.com,10/18/21,0.58,Round‑up program
+Diana,Prince,diana.prince@example.org,12/8/21,0.16,Round‑up program
+Diana,Prince,diana.prince+24@example.org,12/13/21,0.52,Round‑up program
+Diana,Prince,diana.prince@example.org,1/29/22,0.67,Round‑up program
+Diana,Prince,diana.prince@example.org,2/16/22,0.66,Round‑up program
+Diana,Prince,diana.prince@example.org,3/15/22,0.05,Round‑up program
+Diana,Prince,diana.prince@example.org,6/27/22,0.6,Round‑up program
+Diana,Prince,diana.prince@example.org,7/13/22,0.85,Round‑up program
+Diana,Prince,diana.prince@example.org,8/24/22,0.21,Round‑up program
+Diana,Prince,diana.prince@example.org,10/26/22,0.35,Round‑up program
+Diana,Prince,diana.prince@example.org,11/13/22,0.89,Round‑up program
+Diana,Prince,diana.prince@example.org,12/19/22,0.74,Round‑up program
+Diana,Prince,diana.prince@example.org,1/6/23,0.21,Round‑up program
+Diana,Prince,diana.prince@example.org,1/18/23,0.98,Round‑up program
+Diana,Prince,diana.prince@example.org,2/23/23,0.06,Round‑up program
+Diana,Prince,diana.prince@example.org,3/14/23,0.11,Round‑up program
+Diana,Prince,diana.prince@example.org,3/17/23,0.41,Round‑up program
+Diana,Prince,diana.prince@example.org,4/9/23,0.02,Round‑up program
+Diana,Prince,diana.prince@example.org,4/11/23,0.48,Round‑up program
+Diana,Prince,diana.prince@example.org,4/19/23,0.92,Round‑up program
+Diana,Prince,diana.prince@example.org,6/25/23,0.11,Round‑up program
+Diana,Prince,diana.prince@example.org,6/26/23,0.99,Round‑up program
+Diana,Prince,diana.prince@example.org,6/29/23,0.57,Round‑up program
+Diana,Prince,diana.prince@example.org,8/15/23,0.66,Round‑up program
+Diana,Prince,diana.prince@example.org,10/27/23,0.89,Round‑up program
+Diana,Prince,diana.prince@example.org,11/3/23,0.88,Round‑up program
+Diana,Prince,dianaprince@nonprofit.org,11/29/23,0.35,Round‑up program
+Diana,Prince,diana.prince@example.org,12/4/23,0.9,Round‑up program
+Diana,Prince,diana.prince@example.org,2/28/24,0.44,Round‑up program
+Diana,Prince,diana.prince@example.org,3/17/24,0.82,Round‑up program
+Diana,Prince,diana.prince+10@charity.net,3/24/24,0.25,Round‑up program
+Diana,Prince,diana.p@email.com,9/27/24,0.25,Round‑up program
+Diana,Prince,diana.prince@example.org,11/1/24,0.23,Round‑up program
+Diana,Prince,diana.prince@example.org,1/10/25,0.48,Round‑up program
+Diana,Prince,diana.prince@example.org,1/21/25,0.63,Round‑up program
+Diana,Prince,diana.prince@example.org,6/19/25,0.62,Round‑up program
+Diana,Prince,diana.prince@example.org,7/26/25,0.72,Round‑up program
+Diana,Prince,diana.prince@example.org,10/22/25,0.01,Round‑up program
+Diana,Prince,diana.prince@example.org,11/7/25,0.23,Round‑up program
+Diana,Prince,diana.prince@example.org,,0.76,Round‑up program
+Diana,Prince,diana.prince@example.org,,0.72,Round‑up program
+Diana,Prnice,diana.prince@example.org,12/18/24,0.42,Round‑up program
+SpongeBob,qSuarePants,spongebob.squarepants@example.org,1/1/19,0.95,Round‑up program
+Rick,Sanchez,rick.sanchez@example.org,10/2/20,259.11,
+Rick,Sanchez,rick.sanchez@example.org,5/6/21,133.34,Round‑up program
+Rick,Sanchez,rick.sanchez@example.org,11/17/22,227.28,In honor of a friend
+Rick,Sanchez,rick.sanchez@example.org,2/8/24,234.57,In honor of a friend
+Rick,Sanchez,rick.sanchez@example.org,7/31/24,255.28,Corporate match
+Rick,Sanchez,rick.sanchez@example.org,7/31/25,198.75,Corporate match
+Rick,Sanchez,rick.sanchez+25@nonprofit.org,14/11/2025,222.08,Gala pledge
+Rick,Sanchez,rick.sanchez@example.org,31/01/2023,234.59,
+,Satr,patrick.star@example.org,1/9/22,0.88,Round‑up program
+Patrick,Satr,patrick.star@example.org,8/9/22,0.94,Round‑up program
+,Satr,patrick.star@example.org,6/12/25,0.39,Round‑up program
+Lisa,Simpson,lisa.simpson@example.org,11/24/22,100,Round‑up program
+Morty,Simth,morty.smith@example.org,9/28/22,45.43,In honor of a friend
+,Simth,morty.smith@example.org,10/6/23,52.59,In honor of a friend
+Morty,Smith,morty.smith@example.org,6/7/19,0.51,Round‑up program
+Morty,Smith,morty.smith@example.org,7/18/19,32.06,In honor of a friend
+Morty,Smith,morty.smith@example.org,8/2/19,52.19,Online donation
+Morty,Smith,morty.smith@example.org,9/17/19,34.12,Online donation
+Morty,Smith,morty.smith@example.org,11/3/19,31.82,Recurring gift
+Morty,Smith,morty.s@example.org,3/29/20,20.26,Corporate match
+Morty,Smith,morty.smith@example.org,8/30/20,28.52,In honor of a friend
+Morty,Smith,morty.smith@example.org,9/28/20,54,
+Morty,Smith,morty.smith@example.org,11/7/20,52.83,Gala pledge
+Morty,Smith,morty.smith@example.org,1/5/21,41.41,Online donation
+Morty,Smith,morty.smith@example.org,2/17/21,57.58,Recurring gift
+Morty,Smith,morty.smith@example.org,4/23/21,59.91,
+Morty,Smith,morty.smith@example.org,4/29/21,35.79,Corporate match
+Morty,Smith,morty.smith@example.org,9/22/21,22.52,Round‑up program
+Morty,Smith,morty.smith@example.org,4/25/22,34.44,Recurring gift
+Morty,Smith,morty.smith@example.org,7/1/22,28.77,Round‑up program
+Morty,Smith,morty.smith@example.org,7/9/22,43.56,
+Morty,Smith,morty.smith@example.org,9/5/22,54.71,Corporate match
+Morty,Smith,morty.smith@example.org,10/23/22,26.73,
+Morty,Smith,morty.smith@example.org,2/19/23,27.38,Corporate match
+Morty,Smith,morty.smith@example.org,6/25/23,22.74,Round‑up program
+Morty,Smith,morty.smith@example.org,8/5/23,48.17,
+Morty,Smith,morty.smith+83@example.org,8/16/23,26.23,Gala pledge
+Morty,Smith,morty.smith@example.org,3/18/24,24.18,
+Morty,Smith,morty.s@nonprofit.org,6/16/24,31.03,Gala pledge
+Morty,Smith,morty.smith@example.org,6/20/24,35.99,Gala pledge
+oMrty,Smith,morty.smith@example.org,6/30/24,44.2,Gala pledge
+Morty,Smith,morty.smith@example.org,8/15/24,25.44,Gala pledge
+Morty,Smith,morty.smith@example.org,10/3/24,24.78,Gala pledge
+Morty,Smith,morty.smith@example.org,12/20/24,31.68,Gala pledge
+Morty,Smith,morty.smith@example.org,6/22/25,52.01,Gala pledge
+Morty,Smith,morty.smith@example.org,7/19/25,26.93,Gala pledge
+Morty,Smith,morty.smith@example.org,11/13/25,36.66,Gala pledge
+Morty,Smith,morty.smith@example.org,,37.93,Gala pledge
+Morty,Smith,morty.smith@example.org,,42.21,Gala pledge
+SpongeBob,SquarePanst,spongebob.squarepants@example.org,7/27/19,0.37,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,8/20/25,0.06,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,1/8/19,0.45,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/15/19,0.27,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/19/19,0.28,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/24/19,0.75,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/31/19,0.81,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,5/26/19,0.23,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,8/16/19,0.06,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,10/15/19,0.31,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,10/20/19,0.06,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,11/26/19,0.46,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/29/20,0.15,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,10/7/20,0.69,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,10/17/20,0.75,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,1/5/21,0.22,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,2/2/21,0.7,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,2/6/21,0.6,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/2/21,0.15,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,7/7/21,0.96,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,8/31/21,0.73,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,9/3/21,0.43,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,11/5/21,0.29,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,1/5/22,0.71,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,2/9/22,0.52,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,4/22/22,0.53,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,5/18/22,0.04,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,5/22/22,0.19,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,7/28/22,0.56,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,9/10/22,0.3,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,9/25/22,0.12,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,12/4/22,0.64,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,2/22/23,0.63,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/8/23,0.19,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/13/23,0.52,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/21/23,1,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,5/10/23,0.47,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,5/15/23,0.21,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,5/29/23,0.62,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,6/7/23,0.47,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,8/7/23,60.45,Gala pledge
+SpongeBob,SquarePants,spongebob.squarepants@example.org,8/8/23,0.42,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,10/3/23,0.37,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,10/10/23,0.3,Round‑up program
+SpongeoBb,SquarePants,spongebob.squarepants@example.org,10/22/23,0.19,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,11/17/23,0.84,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,12/26/23,0.77,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,12/29/23,0.82,Round‑up program
+SponegBob,SquarePants,spongebob.squarepants@example.org,3/8/24,0.28,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,3/22/24,0.26,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,4/27/24,0.56,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,11/13/24,0.77,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,12/13/24,0.38,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,12/13/24,0.63,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,12/18/24,0.37,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,1/7/25,0.53,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,1/9/25,0.29,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,1/19/25,0.32,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,2/20/25,0.3,Round‑up program
+SopngeBob,SquarePants,spongebob.squarepants@example.org,3/30/25,0.45,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,7/12/25,0.13,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,7/31/25,0.83,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,9/19/25,0.08,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,,0.12,Round‑up program
+SpongeBob,SquarePants,spongebob.squarepants@example.org,,0.66,Round‑up program
+SpongeBob,SquarPeants,spongebob.squarepants@example.org,3/26/21,0.56,Round‑up program
+SpongeBob,SquraePants,spongebob.squarepants@example.org,6/5/19,0.22,Round‑up program
+Patrick,Star,patrick.star@example.org,11/7/25,0.77,Round‑up program
+Patrick,Star,patrick.star@example.org,1/14/19,0.55,Round‑up program
+Patrick,Star,patrick.star@example.org,2/8/19,0.95,Round‑up program
+Patrick,Star,patrick.star@example.org,4/1/19,0.73,Round‑up program
+Patrick,Star,patrick.star@example.org,4/16/19,0.93,Round‑up program
+Patrick,Star,patrick.star@example.org,8/19/19,0.47,Round‑up program
+Patrick,Star,patrick.star@example.org,9/25/19,0.94,Round‑up program
+Patrick,Star,patrick.star+28@charity.net,9/29/19,0.34,Round‑up program
+Patrick,Star,patrickstar@example.org,10/7/19,0.99,Round‑up program
+Patrick,Star,patrick.star@example.org,11/21/19,0.25,Round‑up program
+Patrick,Star,patrick.star@example.org,11/26/19,0.96,Round‑up program
+Patrick,Star,patrick.star@example.org,2/17/20,0.21,Round‑up program
+Patrick,Star,patrick.star@example.org,2/23/20,0.66,Round‑up program
+Patrick,Star,patrick.s@nonprofit.org,3/31/20,0.9,Round‑up program
+Patrick,Star,patrick.star@example.org,6/21/20,0.58,Round‑up program
+Patrick,Star,patrick.star@example.org,9/16/20,0.5,Round‑up program
+Patrick,Star,patrick.star@example.org,9/22/20,0.42,Round‑up program
+Patrick,Star,patrick.star@example.org,9/30/20,0.01,Round‑up program
+Patrick,Star,patrick.star@example.org,9/30/20,0.04,Round‑up program
+Patrick,Star,patrick.star@example.org,10/19/20,0.05,Round‑up program
+Patrick,Star,patrick.star@example.org,12/22/20,0.03,Round‑up program
+Patrick,Star,patrick.star@example.org,12/27/20,0.21,Round‑up program
+Patrick,Star,patrick.star@example.org,2/1/21,0.29,Round‑up program
+Patrick,Star,patrick.star@example.org,3/5/21,0.57,Round‑up program
+Patrick,Star,patrick.star@example.org,3/7/21,0.73,Round‑up program
+Patrick,Star,patrick.star@example.org,3/20/21,0.06,Round‑up program
+Patrick,Star,patrick.star@example.org,4/22/21,0.32,Round‑up program
+Patrick,Star,patrick.star@example.org,5/6/21,0.98,Round‑up program
+Patrick,Star,patrick.star@example.org,9/13/21,0,Round‑up program
+Patrick,Star,patrick.star@example.org,9/28/21,0.13,Round‑up program
+Patrick,Star,patrick.star@example.org,10/5/21,0.29,Round‑up program
+Patrick,Star,patrick.star@example.org,11/14/21,0.34,Round‑up program
+Patrick,Star,patrick.star@example.org,12/14/21,0.67,Round‑up program
+Patrick,Star,patrick.star@example.org,1/31/22,0.62,Round‑up program
+Patrick,Star,patrick.star@example.org,2/17/22,0.99,Round‑up program
+Patrick,Star,patrickstar@email.com,2/18/22,0.27,Round‑up program
+Patrick,Star,patrick.star@example.org,5/10/22,0.25,Round‑up program
+Patrick,Star,patrick.star@example.org,5/16/22,0.97,Round‑up program
+Patrick,Star,patrick.star@example.org,5/18/22,0.68,Round‑up program
+Patrick,Star,patrick.star@example.org,8/13/22,0.28,Round‑up program
+Patrick,Star,patrick.star@example.org,9/16/22,0.73,Round‑up program
+Patrick,Star,patrick.star@example.org,10/11/22,0.29,Round‑up program
+Patrick,Star,patrick.star@example.org,11/20/22,0.72,Round‑up program
+Patrick,Star,patrick.star@example.org,1/2/23,0.54,Round‑up program
+Patrick,Star,patrick.star@example.org,2/13/23,0.13,Round‑up program
+Patrick,Star,patrick.star@example.org,3/5/23,0.82,Round‑up program
+Patrick,Star,patrick.star@example.org,5/7/23,0.31,Round‑up program
+Patrick,Star,patrick.star+96@email.com,6/2/23,0.79,Round‑up program
+Patrick,Star,patrick.star@example.org,6/7/23,0.69,Round‑up program
+Patrick,Star,patrick.star@example.org,7/17/23,0.06,Round‑up program
+Patrick,Star,patrick.star@example.org,9/3/23,0.69,Round‑up program
+Patrick,Star,patrick.star+56@example.org,10/31/23,0.11,Round‑up program
+Patrick,Star,patrick.star@example.org,12/23/23,0.72,Round‑up program
+Patrick,Star,patrick.star@example.org,1/5/24,0.84,Round‑up program
+Patrick,Star,patrick.star@example.org,2/25/24,0.56,Round‑up program
+Patrick,Star,patrick.s@example.org,3/10/24,0.61,Round‑up program
+Patrick,Star,patrickstar@nonprofit.org,3/13/24,0.25,Round‑up program
+Patrick,Star,patrick.star@example.org,4/7/24,0.34,Round‑up program
+Patrick,Star,patrick.star@example.org,4/13/24,0.81,Round‑up program
+Patrick,Star,patrick.star@example.org,8/7/24,0.43,Round‑up program
+Patrick,Star,patrick.star@example.org,2/4/25,0.8,Round‑up program
+Patrick,Star,patrick.star@example.org,3/10/25,0.43,Round‑up program
+Patrick,Star,patrick.star@example.org,6/24/25,0.92,Round‑up program
+Patrick,Star,patrick.star@example.org,7/18/25,0.24,Round‑up program
+Patrick,Star,patrick.star@example.org,8/10/25,0.65,Round‑up program
+Patrick,Star,patrick.star@example.org,10/22/25,0.28,Round‑up program
+Patrick,Star,patrick.star+40@example.org,11/7/25,0.61,Round‑up program
+Patrick,Star,patrick.star+40@nonprofit.org,24/12/2020,0.28,Round‑up program
+Patrick,Star,patrick.star+1@charity.net,,0.45,Round‑up program
+Patrick,Star,patrick.star@example.org,,0.41,Round‑up program
+Patrick,Star,patrickstar@charity.net,,0.01,Round‑up program
+Tony,Stark,tony.stark@example.org,4/2/19,284.89,Gala pledge
+Tony,Stark,tony.stark@example.org,11/3/19,165.58,
+Tony,Stark,tony.stark+71@example.org,7/13/20,266.77,Corporate match
+Tony,Stark,tony.stark+46@nonprofit.org,12/4/20,134.24,
+Tony,Stark,tony.stark@example.org,7/30/21,192.88,Corporate match
+Tony,Stark,tony.stark@example.org,8/18/21,291.36,Corporate match
+Tony,Stark,tony.s@charity.net,10/16/21,26543.05,Online donation
+Tony,Stark,tony.stark@example.org,2/5/22,150.79,Recurring gift
+Tony,Stark,tony.stark@example.org,8/22/22,191.14,Corporate match
+Tony,Stark,tony.stark@example.org,3/27/23,122.62,
+Tony,Stark,tony.stark@example.org,10/28/23,280.64,Gala pledge
+Tony,Stark,tony.stark@example.org,11/1/23,160.71,Gala pledge
+Tony,Stark,tony.stark@example.org,3/7/24,154.41,Gala pledge
+Tony,Stark,tony.stark@example.org,5/3/24,149.87,Round‑up program
+Tony,Stark,tony.stark@example.org,4/8/25,212.75,
+Tony,Stark,tony.stark@example.org,4/24/25,253.21,
+Tony,Stark,tony.stark@example.org,31/08/2021,244.67,Online donation
+Patrick,Stra,patrick.star@example.org,2/5/22,0.88,Round‑up program
+Patrick,Stra,patrick.star@example.org,7/19/25,0.26,Round‑up program
+Bruce,Wayne,bruce.wayne@example.org,11/9/19,174975.03,
+Bruce,Wayne,bruce.wayne@example.org,9/15/22,123075.37,In honor of a friend
+Ron,Weasley,ron.weasley@example.org,3/6/25,31.32,Online donation
+Ron,Weasley,ron.weasley@example.org,1/19/19,47.36,Online donation
+Ron,Weasley,ron.weasley@example.org,4/6/19,57.93,Online donation
+Ron,Weasley,ron.weasley@example.org,4/30/19,21.37,Gala pledge
+Ron,Weasley,ron.weasley@example.org,8/1/19,20.27,Recurring gift
+Ron,Weasley,ron.weasley@example.org,11/20/19,20.96,
+Ron,Weasley,ron.weasley@example.org,9/3/20,0.45,Round‑up program
+Ron,Weasley,ron.weasley@example.org,11/4/20,42.14,Corporate match
+Ron,Weasley,ron.weasley+85@example.org,12/3/20,23.98,Round‑up program
+Ron,Weasley,ron.weasley@example.org,3/22/21,59.74,Gala pledge
+Ron,Weasley,ron.weasley@example.org,6/14/21,29.7,In honor of a friend
+Ron,Weasley,ron.weasley@example.org,10/10/21,22.64,Corporate match
+Ron,Weasley,ron.weasley@example.org,11/9/21,20.57,In honor of a friend
+Ron,Weasley,ron.weasley@example.org,1/18/22,50.28,Corporate match
+Ron,Weasley,ron.weasley@example.org,4/16/22,38.67,Corporate match
+Ron,Weasley,ron.weasley@example.org,5/1/22,55.54,Gala pledge
+Ron,Weasley,ron.weasley@example.org,5/24/22,59,Online donation
+Ron,Weasley,ron.weasley@example.org,12/8/22,55.26,Online donation
+Ron,Weasley,ron.weasley@example.org,2/28/23,36.49,In honor of a friend
+Ron,Weasley,ron.weasley@example.org,5/24/23,58,Round‑up program
+Ron,Weasley,ron.weasley+98@nonprofit.org,6/15/23,48.13,Recurring gift
+Ron,Weasley,ron.weasley@example.org,12/6/23,453.67,
+Ron,Weasley,ron.weasley@example.org,9/5/24,25.87,Online donation
+Ron,Weasley,ron.weasley@example.org,11/8/24,24.92,
+Ron,Weasley,ron.weasley@example.org,1/7/25,53.78,In honor of a friend
+Ron,Weasley,ron.weasley@example.org,1/14/25,26.75,Online donation
+Ron,Weasley,ron.weasley@example.org,6/12/25,22.59,
+Ron,Weasley,ron.weasley@example.org,6/18/25,25.72,
+Ron,Weasley,ron.weasley@example.org,7/29/25,41.59,Recurring gift
+Ron,Weasley,ron.weasley@example.org,21/03/2022,40.1,
+Ron,Weasley,ron.weasley@example.org,,31.36,
+SpongeBob,,spongebob.squarepants@example.org,7/10/25,0.38,Round‑up program
+SpongeBob,,spongebob.squarepants@example.org,11/25/23,0.21,Round‑up program

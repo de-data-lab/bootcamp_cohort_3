@@ -1,0 +1,45 @@
+---
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+subtitle: Cohort 2.0
+echo: false
+warning: false
+---
+
+# Module 3: How can you be a good data steward?
+
+## Data Ethics
+
+### Categories
+
+- **Purpose Limitation & Informed Consent** - Donor, client and volunteer data are usually given for a specific mission purpose; re-use without fresh consent breaches trust and often national privacy law.
+- **Privacy, Security & Confidentiality** - Datasets may expose health, migration-status or abuse history; a breach can endanger lives and violate regulations (HIPAA, GDPR, COPPA, etc.).
+- **Ownership & Data Sovereignty** - Individuals (and in some cases communities) have rights to control how their data is used
+- **Fairness, Equity & Bias Mitigation** - Algorithmic or reporting bias can reinforce structural inequities in service-delivery or fundraising decisions.
+- **Transparency & Accountability** - Funders and the public expect to know what data a nonprofit holds, how algorithms shape decisions, and who is responsible for errors or abuse.
+- **Data Quality & Integrity** - Poor or biased data can misdirect limited charitable resources and erode donor confidence; ethics demands truthfulness and rigor.
+- **Harm Minimization** - Even lawful data uses can create unintended harm (doxing, stigma, predictive policing). Ethical review asks: Could this hurt the population we serve?
+- **Openness vs. Protection** - Nonprofits juggle calls for open data (transparency, collaboration) with duties to safeguard sensitive information.
+
+### Activity
+
+Consider the ethical issues that the [healthcare nonprofit](module_01.html#healthcare) might need to consider as part of their work.
+
+Which are most pressing? Why?
+
+## Data Governance
+
+### Key Questions to Consider
+
+1. How does data flow through our organization?
+2. How is our data collected and stored?
+3. How do we ensure that our data is high quality?
+4. Who has access to our data?
+5. What security protocols are in place to protect our data?
+6. How are we considering policies and regulations that impact our data?
+7. How are we empowering and educating our employees and volunteers?
+
+### Activity
+
+Consider the [education scenario](module_01.html#education). Reflect upon how you would address the key data governance questions as it relates to their needs. Address each of the questions as best as you can.

@@ -1,0 +1,161 @@
+---
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+subtitle: Cohort 2.0
+echo: false
+warning: false
+---
+
+# Module 2: How do we build data solutions?
+
+You are building a donor churn prediction model. You are reviewing the datasets utilized to build the donor churn model in order to develop an ETL (Extract-Transform-Load) pipeline.
+
+Review the raw datasets that are utilized to generate each element of the donor churn model. Consider the questions about data transformation. These include, but are not limited to:
+
+* Are there any issues with the data (outliers, missing, etc.)?
+* Is the data validated?
+* Does the data need to be aggregated? How?
+* Do we need to augment the data?
+* Does it need to be joined or merged? How?
+
+
+What would we need to do to transform the raw data into the data utilized for the analysis?
+
+## Dataset After Transformation
+After all datasets are transformed, there will be one record per person per year. It will look something like this:
+
+```{r}
+library(tidyverse)
+library(DT)
+
+tribble(
+  ~Person,       ~`Donation $ Last Year`, ~`Event Participation Last Year`, ~`Email Clickthrough Rate Last Year`, ~`Income Last Year`, ~`Donated This Year`,
+  "Mickey Mouse",                    200,                                0,                                 0.05,              200000,                 TRUE,
+  "Bugs Bunny",                       50,                                3,                                 0.07,               40000,                FALSE,
+  "Patrick Star",                     25,                                1,                                 0.03,               32000,                 TRUE,
+  "Bruce Wayne",                    1000,                                0,                                 0.01,           100000000,                FALSE,
+  "Peter Parker",                     30,                                5,                                 0.21,               20000,                 TRUE,
+  "Ash Ketchum",                      75,                                2,                                 0.06,              120000,                   NA,
+  "Velma Dinkley",                   100,                                5,                                 0.12,               67000,                   NA
+) %>% 
+  datatable(
+    rownames = FALSE,
+    extensions = 'Buttons',           # load Buttons
+    options = list(
+      pageLength = 10,
+      autoWidth = TRUE,
+      searchHighlight = TRUE,
+      dom       = 'Bfrtip',           # B = buttons, f = filter, r = processing, t = table, i = info, p = pagination
+      buttons   = list(
+        list(extend   = 'csv',
+             filename = 'module_2_activity-data_after_transformations'),
+        list(extend   = 'excel',
+             filename = 'module_2_activity-data_after_transformations')
+      )
+    )
+  ) %>%
+  formatCurrency("Donation $ Last Year", currency = "$", digits = 0) %>%
+  formatCurrency("Income Last Year", currency = "$", digits = 0) %>%
+  formatPercentage("Email Clickthrough Rate Last Year", digits = 1)
+```
+
+## Raw Datasets
+Each of the following four datasets represents the raw data utilized to create the table above.
+
+::: {.panel-tabset}
+
+### Past Donation History
+This dataset originates from **Salesforce**. It is updated each time a donation is made.
+
+```{r}
+read_csv("donations_synthetic_salesforce_v3.csv") %>% 
+  mutate(`Date of Donation` = as.Date(`Date of Donation`, format = "%m/%d/%y")) %>% 
+  datatable(
+    rownames = FALSE,
+    extensions = 'Buttons',           # load Buttons
+    options = list(
+      pageLength = 10,
+      autoWidth = TRUE,
+      searchHighlight = TRUE,
+      dom       = 'Bfrtip',           # B = buttons, f = filter, r = processing, t = table, i = info, p = pagination
+      buttons   = list(
+        list(extend   = 'csv',
+             filename = 'module_2_activity-past_donation_history'),
+        list(extend   = 'excel',
+             filename = 'module_2_activity-past_donation_history')
+      )
+    )
+  ) %>%
+  formatCurrency("Dollar Amount", currency = "$", digits = 2)
+```
+
+### Event Attendance
+This dataset originates from a **Google Form**. It is updated during each event hosted by the organization.
+
+```{r}
+read_csv("event_tracker_attendance_sheet.csv") %>% 
+  datatable(
+    rownames = FALSE,
+    extensions = 'Buttons',           # load Buttons
+    options = list(
+      pageLength = 10,
+      autoWidth = TRUE,
+      searchHighlight = TRUE,
+      dom       = 'Bfrtip',           # B = buttons, f = filter, r = processing, t = table, i = info, p = pagination
+      buttons   = list(
+        list(extend   = 'csv',
+             filename = 'module_2_activity-event_attendance'),
+        list(extend   = 'excel',
+             filename = 'module_2_activity-event_attendance')
+      )
+    )
+  )
+```
+
+### Engagement with Emails
+This dataset originates from **Hubspot**. It is automatically updated as individuals on the email list interact with emails sent by the organization.
+
+```{r}
+read_csv("hubspot_email_interactions.csv") %>% 
+  datatable(
+    rownames = FALSE,
+    extensions = 'Buttons',           # load Buttons
+    options = list(
+      pageLength = 10,
+      autoWidth = TRUE,
+      searchHighlight = TRUE,
+      dom       = 'Bfrtip',           # B = buttons, f = filter, r = processing, t = table, i = info, p = pagination
+      buttons   = list(
+        list(extend   = 'csv',
+             filename = 'module_2_engagement_with_emails'),
+        list(extend   = 'excel',
+             filename = 'module_2_engagement_with_emails')
+      )
+    )
+  )
+```
+
+### Income Data
+This dataset lives in **Salesforce**. A development manager updates the data about once per year.
+
+```{r}
+read_csv("donor_volunteer_master_v2.csv") %>% 
+  datatable(
+    rownames = FALSE,
+    extensions = 'Buttons',           # load Buttons
+    options = list(
+      pageLength = 10,
+      autoWidth = TRUE,
+      searchHighlight = TRUE,
+      dom       = 'Bfrtip',           # B = buttons, f = filter, r = processing, t = table, i = info, p = pagination
+      buttons   = list(
+        list(extend   = 'csv',
+             filename = 'module_2_activity-income_data'),
+        list(extend   = 'excel',
+             filename = 'module_2_activity-income_data')
+      )
+    )
+  ) %>%
+  formatCurrency("Net Worth", currency = "$", digits = 2)
+```

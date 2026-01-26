@@ -1,0 +1,26 @@
+---
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+subtitle: Cohort 2.0
+echo: false
+warning: false
+---
+
+# Module 4: How do we tell data-driven stories?
+
+![Voice Prioritization](voice_prioritization.png)
+
+### Activity
+
+Who matters most for your story?​
+
+You are a leader at a nonprofit organization focused on providing educational resources to underprivileged children. You are reviewing data for two upcoming meetings.​
+
+The meetings include:​
+
+A first meeting with a high-influence funder​
+
+A second with a high-interest community group​
+
+How would your data story shift when speaking to a *high-influence* funder vs. a *high-interest* community group?

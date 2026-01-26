@@ -1,0 +1,106 @@
+---
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+subtitle: Cohort 2.0
+---
+
+# Module 1: What is possible?
+
+You will be provided with a scenario in which a nonprofit organization needs to make a decision about a challenge it is facing. Consider the types of analysis (descriptive, diagnostic, predictive, prescriptive, and generative) that we discussed.
+
+Discuss these questions for the scenario:
+
+1. What types of analysis would you make with the data available to you?
+
+>  * **Descriptive** - what have we done in the past?
+>  * **Diagnostic** - why have we seen past results?
+>  * **Predictive** - what will happen in the future?
+>    * **Regression** - can I predict a numerical value?
+>    * **Classification** - can I predict the likelihood?
+>    * **Clustering** - can I find common groups?
+>    * **Association** - what goes together?
+>  * **Prescriptive** - how should we take action?
+>  * **Generative** - how can we action upon nondeterministic tasks?
+  
+2. Are there any analyses you would want to make that would require additional data? What are those?
+
+# Analytics Type Identification
+
+::: {.panel-tabset}
+
+## Program Reach Snapshot
+*Descriptive*
+
+Your food pantry wants a clear picture of how many households it served over the last 12 months. Staff pull data from intake forms to summarize total households served, average visits per household, and service counts by zip code. They create a simple dashboard showing monthly trends and a breakdown by household size.
+
+
+## Drop-off in Attendance
+*Diagnostic*
+
+A youth mentoring program notices attendance fell sharply after September. The team compares cohorts by site location, day of week, mentor-to-youth ratio, and transportation access to see what changed. They also review staff notes and survey feedback from caregivers to look for patterns.
+
+## Donations
+*Predictive - Regression*
+
+A nonprofit relies on monthly donations and needs to plan staffing for the next quarter. They want to use past donation totals along with factors like year-end seasonality, campaign email volume, and local economic indicators to understand how much revenue will come in each month.
+
+## Membership Lapse
+*Predictive - Classification*
+
+A membership-based nonprofit wants to prevent member churn. Using past member histories, they want to understand whether a donor is likely to lapse in the next 90 days based on recency of giving, number of donations, engagement with emails, and event attendance. Staff then prioritize outreach to those with a high risk.
+
+## Client Needs
+*Predictive - Clustering*
+
+A workforce development nonprofit serves clients with very different needs. They use intake data (education, employment history, barriers like childcare or transportation, and preferred training schedule) to group clients into natural segments without pre- labeling those groups. After creating segments, they discover a few distinct profiles and design service pathways for each.
+
+## Common Services
+*Predictive - Association*
+
+A homeless services provider wants to understand what combinations of services clients commonly use. They analyze service records to identify patterns like “clients who receive rental assistance often also receive legal aid within 60 days.” The team uses these insights to co-locate services and improve referrals. The goal is to find “if-then” relationships in behavior.
+
+## No-Shows for Appointments
+*Predictive - Classification*
+
+A community health nonprofit struggles with missed appointments, which wastes staff time and reduces client outcomes. They want to understand whether a scheduled appointment will be a no-show based on past attendance, appointment time, weather, travel distance, and reminder method. The goal is to identify likely no- shows so staff can intervene.
+
+## Outreach Strategies
+*Prescriptive*
+
+A nonprofit has limited outreach capacity and must decide how to allocate staff time across phone calls, text reminders, and community events. They use predicted response rates from past campaigns plus costs (staff hours, vendor fees) to recommend the best mix that maximizes enrollments within the budget. The result is a recommended action plan—who to contact, how, and when. The goal is to decide what should be done given constraints
+
+## Service Schedule
+*Prescriptive*
+
+A mobile clinic can only operate three days per week and must choose which neighborhoods to visit. Using historical demand, travel times, staffing limits, and equity goals (ensuring high-need areas are not underserved), the nonprofit runs an optimization to generate the best weekly route and schedule. The output is a recommended schedule that balances access, cost, and coverage.
+
+## Hotline Call Spikes
+*Diagnostic*
+
+A domestic violence hotline sees a sudden increase in calls over a two-week period. The team reviews call logs by time of day, referral source, and caller location, then compares the pattern to recent community events, policy changes, and media coverage. They also check whether staffing changes affected wait times or call outcomes. The goal is to explain why the spike likely occurred and what contributing factors are involved.
+
+:::
+
+# What analyses would you consider?
+
+## Healthcare
+You are a leader at a nonprofit organization focused on providing healthcare services to underserved populations. Your organization is planning to launch a new mobile health clinic, but you are unsure about the best locations to deploy it. 
+
+The data you have access to includes the following:
+
+* Historical electronic health record data
+* Community demographic and socioeconomic data
+* Transportation accessibility data
+* Healthcare infrastructure data
+
+# Try this scenario yourself
+
+## Education
+You are a leader at a nonprofit organization focused on providing educational resources to underprivileged children. Recently, you've noticed a decline in student engagement and attendance in your after-school programs.
+
+The data you have access to includes the following:
+
+* Attendance records
+* Daily activity schedules
+* Satisfaction survey data for activities

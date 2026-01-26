@@ -1,0 +1,20 @@
+title: |
+  <img src="techimpact_whitelogo_20190813.png" alt="Logo" style="height:60px;">
+  <br>
+  Nonprofit Data Bootcamp
+  
+format:
+  html:
+    other-links:
+      - text: Main
+        href: https://de-data-lab.github.io/bootcamp_cohort_3/index.html
+      - text: Module 01
+        href: https://de-data-lab.github.io/bootcamp_cohort_3/module_01.html
+      - text: Module 02
+        href: https://de-data-lab.github.io/bootcamp_cohort_3/module_02.html
+      - text: Module 03
+        href: https://de-data-lab.github.io/bootcamp_cohort_3/module_03.html
+      - text: Module 04
+        href: https://de-data-lab.github.io/bootcamp_cohort_3/module_04.html
+      - text: Module 05
+        href: https://de-data-lab.github.io/bootcamp_cohort_3/module_05.html

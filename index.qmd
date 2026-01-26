@@ -1,0 +1,14 @@
+---
+editor: source
+toc: true
+title-block-banner: "#0057b8"
+---
+
+Navigate to the following pages during the corresponding activities:
+
+* [Main Page](index.html)
+* [Module 1 Activities](module_01.html)
+* [Module 2 Activities](module_02.html)
+* [Module 3 Activities](module_03.html)
+* [Module 4 Activities](module_04.html)
+* [Module 5 Activities](module_05.html)
