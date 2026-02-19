@@ -2,7 +2,7 @@
 editor: source
 toc: true
 title-block-banner: "#0057b8"
-subtitle: Cohort 2.0
+subtitle: Cohort 3.0
 echo: false
 warning: false
 ---

@@ -2,44 +2,199 @@
 editor: source
 toc: true
 title-block-banner: "#0057b8"
-subtitle: Cohort 2.0
+subtitle: Cohort 3.0
 echo: false
 warning: false
 ---
 
-# Module 3: How can you be a good data steward?
+# Module 3: How do we tell data-driven stories?
 
-## Data Ethics
+You are developing a presentation for members of your state legislature outlining childhood obesity rates across ethnicities in your state. You are considering data for the last 10 years in your presentation.
 
-### Categories
+Consider how you would tell the story with data to this group of policy makers.
 
-- **Purpose Limitation & Informed Consent** - Donor, client and volunteer data are usually given for a specific mission purpose; re-use without fresh consent breaches trust and often national privacy law.
-- **Privacy, Security & Confidentiality** - Datasets may expose health, migration-status or abuse history; a breach can endanger lives and violate regulations (HIPAA, GDPR, COPPA, etc.).
-- **Ownership & Data Sovereignty** - Individuals (and in some cases communities) have rights to control how their data is used
-- **Fairness, Equity & Bias Mitigation** - Algorithmic or reporting bias can reinforce structural inequities in service-delivery or fundraising decisions.
-- **Transparency & Accountability** - Funders and the public expect to know what data a nonprofit holds, how algorithms shape decisions, and who is responsible for errors or abuse.
-- **Data Quality & Integrity** - Poor or biased data can misdirect limited charitable resources and erode donor confidence; ethics demands truthfulness and rigor.
-- **Harm Minimization** - Even lawful data uses can create unintended harm (doxing, stigma, predictive policing). Ethical review asks: Could this hurt the population we serve?
-- **Openness vs. Protection** - Nonprofits juggle calls for open data (transparency, collaboration) with duties to safeguard sensitive information.
+## Activity 1
 
-### Activity
+### Activity Objective
+Consider the components of a data story. How does this scenario map to those components?
+What narrative structures might you consider utilizing? Why?
 
-Consider the ethical issues that the [healthcare nonprofit](module_01.html#healthcare) might need to consider as part of their work.
+### Elements of data stories
 
-Which are most pressing? Why?
+Remember the elements of data stories that you might want to utilize. Begin with the end in mind.
 
-## Data Governance
+#### Audience
+Who are you speaking to?
 
-### Key Questions to Consider
+* Are they internal? External?
+* Are they an expert? A novice?
+* What do they care about?
+* Why are they there?
 
-1. How does data flow through our organization?
-2. How is our data collected and stored?
-3. How do we ensure that our data is high quality?
-4. Who has access to our data?
-5. What security protocols are in place to protect our data?
-6. How are we considering policies and regulations that impact our data?
-7. How are we empowering and educating our employees and volunteers?
+#### Give Context to Issues
+Consider utilizing these types of narrative structures:
 
-### Activity
+* Narrate change over time
+* Start big and drill down
+* Highlight contrasts
+* Profile the outliers
+* Start small and zoom out
+* Dissect the factors
+* Explore the intersection
 
-Consider the [education scenario](module_01.html#education). Reflect upon how you would address the key data governance questions as it relates to their needs. Address each of the questions as best as you can.
+#### Solution
+Begin with the end in mind. Consider starting by understanding your solution:
+
+* What should the audience takeaway?
+* Is there a specific call-to-action?
+* What behaviors should change?
+* What is the expected result from the change?
+
+
+## Activity 2
+
+```{r}
+#| echo: false
+#| warning: false
+
+if(! require(pacman)) install.packages("pacman")
+
+pacman::p_load(
+  tidyverse,
+  DT
+)
+```
+
+### Sample data
+The data included below represents a potential sample of data for you to consider. Note that this data has been generated for the purposes of this exercise and does not represent real world data.
+
+```{r}
+#| echo: false
+
+datatable(
+  tidyr::tribble(
+    ~Year, ~`White (%)`, ~`Black or African (%)`, ~`Asian (%)`, ~`Hispanic (%)`,
+    2015,  20.0,         26.0,                    24.0,         21.0,
+    2016,  16.0,         29.0,                    23.0,         22.0,
+    2017,  18.0,         27.0,                    22.0,         23.0,
+    2018,  17.0,         29.0,                    21.0,         24.0,
+    2019,  18.0,         26.0,                    20.0,         25.0,
+    2020,  24.0,         21.0,                    20.0,         25.0,
+    2021,  17.0,         22.0,                    22.5,         22.5,
+    2022,  22.0,         25.0,                    25.0,         20.0,
+    2023,  24.0,         20.0,                    27.5,         17.5,
+    2024,  17.0,         27.0,                    30.0,         15.0
+  )
+)
+```
+
+
+### Activity Objective
+Sketch three potential visualizations you might utilize to tell this story.
+Consider which types of visualizations might be useful for you.
+Consider how the visualizations fit into the broader data story you are trying to tell.
+
+Make your sketch wherever you're comfortable. Be prepared to share your sketch with group mates. Some recommendations:
+
+* Pen and paper!
+* Presentation tools like PowerPoint or Google Presentations
+* Online whiteboarding tools like [Miro](https://miro.com/) or [Vibe](https://app.vibe.us)
+* [Virtual Graph Paper](https://virtual-graph-paper.com/)
+
+
+## Activity 3
+
+```{r}
+#| echo: false
+#| warning: false
+
+if(! require(pacman)) install.packages("pacman")
+
+pacman::p_load(
+  tidyverse,
+  here,
+  DT
+)
+```
+
+Consider Grade 3 reading proficiency by race in Delaware’s school districts from 2015 to 2021.
+
+Compose a data visualization for a policy maker, school administrator, or member of the public that encapsulates the best practices discussed throughout today’s presentation.
+
+Data is sourced from [Delaware’s Open Data Portal](https://data.delaware.gov/Education/Student-Assessment-Performance/ms6b-mt82/about_data).
+
+### Data
+
+#### Data Dictionary
+The following fields are included in the dataset:
+
+| Field           | Description                                                                                                                                                                                                                                                                                                                      |
+|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `School Year`     | School year for which record is applicable. For example, 2016 = school year which ended in June 2016.                                                                                                                                                                                                                            |
+| `District Code`   | Number representing each School District. Statewide data rows will have “0” in this column.                                                                                                                                                                                                                                      |
+| `District`        | Full name of the School District. Statewide data rows have "State of Delaware" in this column.                                                                                                                                                                                                                                   |
+| `School Code`     | Number representing each School within the school district. Statewide or Districtwide data rows will have “0” in this column.                                                                                                                                                                                                    |
+| `Organization`    | Full name of the Organization which is the School if School Code is given in the row. Districtwide data rows give full name of School District. Statewide rows give "State of Delaware" in this column.                                                                                                                          |
+| `Assessment Name` | Statewide summative assessment name. Valid values include: ACCESS – EL Annual ACCESS assessment; DCAS – Delaware Comprehensive Assessment System; DCAS-Alt1 – Delaware Comprehensive Assessment System – Alternate Assessment; DeSSAALT – Delaware System; SAT11 – SAT assessment; SBAC – Smarter Balanced Assessment Consortium |
+| `Content Area`    | Statewide summative assessment subject (or content area). Valid values include: CMP – EL Annual ACCESS Composite Score; ELA – English Language Arts/Reading; ESSAY – Essay Component of SAT assessment; MATH – Mathematics; SCI – Science; SOC – Social Studies;                                                                 |
+| `Race`            | Represents the race/ethnicity of the unique group of students within a school/district.                                                                                                                                                                                                                                          |
+| `Gender`          | Represents the grade level of the unique group of students within a school/district.                                                                                                                                                                                                                                             |
+| `Grade`           | Represents the grade level of the unique group of students within a school/district.                                                                                                                                                                                                                                             |
+| `SpecialDemo`     | Represents the special population status of the unique group of students within a school/district.                                                                                                                                                                                                                               |
+| `Geography`       | Represents the geography of the unique group of students within a school/district. Geography can have the following values: ALL – all geographies combined                                                                                                                                                                       |
+| `SubGroup`        | Names the unique group of students within a school/district described by the combination of Race, Gender, Grade, SpecialDemo, and Geography.                                                                                                                                                                                     |
+| `RowStatus`       | Indicates whether the aggregate data in this row has either been REDACTED or REPORTED. If redacted, certain data has been hidden to comply with state and federal privacy laws. For more information, contact the Delaware Department of Education.                                                                              |
+| `Tested`          | The number of students who completed the statewide summative assessment listed with a valid score                                                                                                                                                                                                                                |
+| `Proficient`      | The number of students who earned a proficient achievement level. This is typically considered as 3 or above.                                                                                                                                                                                                                    |
+| `PctProficient`   | The percent of students who earned an achievement level considered proficient. This is the number of students who earned a proficient achievement level divided by the number of students who tested.                                                                                                                            |
+| `ScaleScoreAvg`   | The average scale score for the specified group of students.                                                                                                                                                                                                                                                                     |
+
+#### Sample
+
+You can view a selection of the data below. Sample data includes the following filters:
+
+* `Gender` is filtered to show `All Students`
+* `School Code` is filtered to `0`, which forces the `Organization` to be at the district or charter school level
+* `SpecialDemo` is filtered to show `All Students`
+
+```{r}
+#| echo: false
+#| warning: false
+
+reading_level <- read_csv(here("Student_Assessment_Performance_20241020.csv"))
+
+```
+
+```{r}
+#| echo: false
+reading_level %>% 
+  filter(Gender == "All Students",
+         `School Code` == 0,
+         SpecialDemo == "All Students") %>% 
+  datatable(
+    rownames = FALSE,
+    extensions = 'Buttons',           # load Buttons
+    options = list(
+      pageLength = 10,
+      autoWidth = TRUE,
+      searchHighlight = TRUE,
+      dom       = 'Bfrtip',           # B = buttons, f = filter, r = processing, t = table, i = info, p = pagination
+      buttons   = list(
+        list(extend   = 'csv',
+             filename = 'activity_3-grade3_reading'),
+        list(extend   = 'excel',
+             filename = 'activity_3-grade3_reading')
+      )
+    )
+  )
+```
+
+
+### Activity Objective
+Develop a data narrative that you want to tell based upon Grade 3 reading proficiency data in Delaware.
+Consider all of the elements of a data narrative.
+Consider which types of graphs would be most effective to tell your story.
+Consider how you would incorporate best practices into those graphs.
+
+Sketch your narrative including at least three graphs.
+
