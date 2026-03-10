@@ -2,7 +2,7 @@
 editor: source
 toc: true
 title-block-banner: "#0057b8"
-subtitle: Cohort 2.0
+subtitle: Cohort 3.0
 echo: false
 warning: false
 ---
@@ -24,7 +24,12 @@ warning: false
 
 ### Activity
 
-Consider the ethical issues that the [healthcare nonprofit](module_01.html#healthcare) might need to consider as part of their work.
+Consider the ethical issues that a county's Department of Health and Human Services might need to consider as part of their work.
+
+> Child welfare workers are asked to make thousands of decisions in any given year. This is an overwhelming number of decisions to make - often with imperfect information. A county’s Department of Health and Human Services built a model that can aid decision making for its child welfare workers. Each case is given a score that indicates how risky it is based upon the likelihood of the child to be removed from the home within 2 years.
+
+> Incidents of potential neglect are reported to the county’s child protection hotline. The reports go through a screening process where the algorithm calculates the child’s potential risk and assigns a score. Child welfare workers then use their discretion to decide whether to investigate.
+
 
 Which are most pressing? Why?
 
@@ -42,4 +47,12 @@ Which are most pressing? Why?
 
 ### Activity
 
-Consider the [education scenario](module_01.html#education). Reflect upon how you would address the key data governance questions as it relates to their needs. Address each of the questions as best as you can.
+Consider the education scenario. 
+
+> You are a leader at a nonprofit organization focused on providing educational resources to underprivileged children. Recently, you've noticed a decline in student engagement and attendance in your after-school programs. The data you have access to includes the following:
+
+> - Attendance records
+> - Daily activity schedules
+> - Satisfaction survey data for activities
+
+Reflect upon how you would address the key data governance questions as it relates to their needs. Address each of the questions as best as you can.
